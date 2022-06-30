@@ -1,0 +1,426 @@
+---
+title: "Data Preperation"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+### Setup
+```{r message=FALSE, warning =FALSE}
+library("magrittr")
+library("tidyverse")
+library(stringi)
+library(stringr)
+
+```
+
+### Data Cleaning
+
+Want ability to determine number of postings for any given slice.
+Dimensions – Time, company, Location, Category.
+Elimnate- Job description and Job requirement columns.
+
+
+```{r cars}
+# Read data
+seek = read.csv("seek_australia.csv")
+reed = read.csv("reed_uk.csv")
+
+
+```
+
+#### Comparing data types for the two tables.
+```{r}
+
+str(reed)
+```
+```{r}
+str(seek)
+```
+The "Job Description", "URl", "Job_Board", and "Job_requirement" columns are not  useful for the use case envisioned, thus we delete them.
+
+```{r}
+### deleting the URL job-description, job_board, and Job requirement tabs
+cleanup = function(df){
+  df["category"] = df["ï..category" ]
+  df = df[! names(df) %in% c("url","ï..category" , "job_description", 
+                             "job_board", "url", "job_requirements" )]
+  return(df)
+  }
+
+reed = cleanup(reed)
+seek = cleanup(seek)
+```
+
+The state and city columns have a few countries in them so we can extract those countries and apply an "unknown" to the city column. The reed data Has counties in the state column and seek data has suburbs. These have two different hierarchies. Counties >City , City>Surburb. This process procedes with the granularity at the city level.
+
+```{r}
+# Function to extract the countries and cities form the city and state columns.
+ get_country = function(state,city, countries = reed_countries){
+   for (country in countries){
+     if (identical(state ,country) || identical(city ,country))
+     {
+       
+       return( country[1])
+     }
+   }
+   return("United Kindom")
+}
+```
+
+
+
+```{r message=FALSE, warning =FALSE}
+# Exracting the countries from the data.
+library(sqldf)
+require(rworldmap)
+data(countryExData)
+reed_countries = union(intersect(c(countryExData$Country),reed$state),intersect(c(countryExData$Country),reed$city))
+reed_countries = c(reed_countries, "USA")
+
+reed["country"] = "United Kingdom"
+for( i in 1:50000){
+  reed[i, "country"] = get_country(reed[i, "state"], reed[i, "city"])
+}
+```
+
+
+```{r message=FALSE, warning =FALSE}
+# Inputing "unkown" to the Countries with no cities.
+reed %<>% mutate(city =  ifelse(tolower(city) %in% tolower(reed_countries), "Unknown", ifelse(!is.na(as.numeric(city)), "Unknown", city)   ))
+
+```
+The seek data only has jobs posted in Australia.
+```{r}
+seek["country"] = "Australia"
+```
+
+```{r message=FALSE, warning =FALSE}
+
+
+## Creating the location data frame.
+library(sqldf)
+
+location  = sqldf("select distinct country, city from reed union select distinct country, city from seek")
+```
+
+```{r}
+# imputing keys
+ID = seq(1:dim(location)[1])
+location = cbind(ID, location)
+```
+
+
+#### Job Type
+Comparing the Job types for the two data sets. Reed data has more granular information than the seek data. Best option is to reduce the job type to the lowest common factor found in the seek data set.
+
+```{r}
+unique(reed$job_type)
+```
+```{r}
+unique(seek$job_type)
+```
+```{r}
+
+reed$job_type[grepl("Temporary", reed$job_type)] = "Contract/Temp"
+reed$job_type[grepl("full-time", reed$job_type)] = "Full Time"
+reed$job_type[grepl("part-time", reed$job_type)] = "Part Time"
+
+```
+
+```{r}
+job_type = union(unique(reed$job_type), unique(seek$job_type))
+job_type =  as.data.frame(job_type)
+```
+
+```{r}
+ID =seq(1:dim(job_type)[1])
+job_type =cbind(ID, job_type)
+```
+
+
+#### Job Category
+Comparing different categories from each data sets. The aim is to pair the categories so that there is harmony between the column labels. Where labels have no corresponding match, it is left as is.
+```{r}
+unique(reed$category)
+```
+```{r}
+unique(seek$category)
+```
+```{r}
+## THis pairing up the categories.
+
+reed$job_type[grepl("Temporary", reed$job_type)] = "Contract/Temp"
+unic_cat = unique(seek$category)
+for(i in 1:50000){
+  if(reed$category[i] %in% c("retail jobs",  "fmcg jobs")){
+    reed$category[i] = "Retail & Consumer Products"            
+  }
+  else if (reed$category[i] %in% c( "logistics jobs", "factory jobs"    ,  "purchasing jobs")){
+    reed$category[i] = "Manufacturing, Transport & Logistics"  
+  }
+  else if (reed$category[i] %in% c("sales jobs")){
+    reed$category[i] = "Sales" 
+  }
+  else if (reed$category[i] %in% c("social care jobs" ,  "charity jobs")){
+    reed$category[i] = "Community Services & Development" 
+  }
+  else if (reed$category[i] %in% c("health jobs")){
+    reed$category[i] = "Healthcare & Medical" 
+  }
+  else if (reed$category[i] %in% c("it jobs")){
+    reed$category[i] =  "Information & Communication Technology" 
+  }
+  else if (reed$category[i] %in% c("energy jobs")){
+    reed$category[i] =   "Mining, Resources & Energy" 
+  }
+  else if (reed$category[i] %in% c("construction property jobs")){
+    reed$category[i] = "Construction"
+  }
+  else if (reed$category[i] %in% c("customer service jobs" )){
+    reed$category[i] = "Call Centre & Customer Service"
+  }
+  else if (reed$category[i] %in% c("marketing jobs" )){
+    reed$category[i] = "Marketing & Communications"
+  }
+  else if (reed$category[i] %in% c("admin secretarial pa jobs" )){
+    reed$category[i] = "Administration & Office Support"       
+  }
+  else if (reed$category[i] %in% c("banking jobs"    ,   "finance jobs" )){
+    reed$category[i] = "Banking & Financial Services"      
+  }
+  else if (reed$category[i] %in% c("engineering jobs")){
+    reed$category[i] = "Engineering"                                
+  }
+   else if (reed$category[i] %in% c("education jobs")){
+    reed$category[i] = "Education & Training"    
+  }
+  else if (reed$category[i] %in% c("accountancy jobs" ,  "accountancy qualified jobs"        )){
+    reed$category[i] = "Accounting"
+   } 
+  else if (reed$category[i] %in% c("hr jobs" , "recruitment consultancy jobs")){
+    reed$category[i] = "Human Resources & Recruitment"  } 
+  else if (reed$category[i] %in% c("estate agent jobs")){
+    reed$category[i] = "Real Estate & Property" }
+  else if (reed$category[i] %in% c("law jobs")){
+    reed$category[i] = "Legal" }
+  else if (reed$category[i] %in% c("leisure tourism jobs"  , "catering jobs"                                )){
+    reed$category[i] = "Hospitality & Tourism" }
+  else if (reed$category[i] %in% c("strategy consultancy jobs")){
+    reed$category[i] = "Consulting & Strategy"}
+  else if (reed$category[i] %in% c("media digital creative jobs")){
+    reed$category[i] = "Advertising, Arts & Media"             }
+  else if (reed$category[i] %in% c("general insurance jobs")){
+    reed$category[i] = "Insurance & Superannuation" }
+  else if (reed$category[i] %in% c("science jobs")){
+    reed$category[i] = "Science & Technology"   }
+
+  else if (reed$category[i] %in% c("motoring automotive jobs")){
+    reed$category[i] = "Motoring Automotive"   
+    }
+  else if (reed$category[i] %in% c("other jobs")){
+    reed$category[i] ="Other"   }
+  else if (reed$category[i] %in% c("security safety jobs")){
+    reed$category[i] ="Security Safety"    }
+  else if (reed$category[i] %in% c( "apprenticeships jobs")){
+    reed$category[i] = "Apprenticeships"    }
+    else if (reed$category[i] %in% c("training jobs")){
+    reed$category[i] = "Training"    }
+  else if (reed$category[i] %in% c("graduate training internships jobs")){
+    reed$category[i] = "Graduate Training Internships"    }
+  
+}
+```
+
+
+```{r}
+# Creating category dataframe.
+category = union(unique(seek$category), unique(reed$category))
+category  = data.frame(category)
+
+```
+
+```{r}
+ID = seq(1, dim(category)[1])
+category = cbind(ID, category)
+```
+
+
+
+### Company Name
+A comparison between the the two columns is mad to espouse any similarities.
+
+```{r}
+# No common Companies between the two
+intersect(unique(reed$company_name), unique(seek$company_name))
+```
+There are no companies in common in the two columns.
+
+
+```{r}
+company_name = union(unique(seek$company_name), unique(reed$company_name))
+company_name  = data.frame(company_name)
+```
+
+```{r}
+ID = seq(1:dim(company_name)[1])
+company_name = cbind(ID, company_name)
+```
+
+
+#### Date
+
+The dates have different formats. The code below is used to harmonize the date format, then combine the two into a singular date dataframe, then break the date down into it's components.
+
+```{r}
+# CHanging format to harmonize the columns.
+reed %<>%
+  mutate(post_date= as.Date(post_date, format="%m/%d/%Y"))
+
+
+seek %<>%
+  mutate(post_date= as.Date(seek$post_date[2], format= "%Y-%m-%d", tz = "Z"))
+```
+
+```{r}
+# Find the minimum and maximum post dates to use for the Date dataframe.
+
+sort(union(reed$post_date, seek$post_date))
+raw_dates <- seq(as.Date(17409 ,origin = "1970-01-01"), as.Date(17636 ,origin = "1970-01-01"), by = 'days')
+```
+```{r}
+
+Time = as.data.frame(t(as.data.frame(format(raw_dates, "%B, %Y") %>% str_split(,pattern = ","), row.names = c( "Month", "Year"))))
+rownames(Time) = seq(1:dim(Time)[1])
+```
+
+```{r}
+
+Time["Full Date Description"] = format(raw_dates, "%d - %B - %Y")
+Time["Day of the week"] = format(raw_dates, "%A")
+Time["Calender Quarter"] = quarters(raw_dates)
+Time["Date"] = raw_dates
+
+```
+
+```{r}
+ID = seq(1:dim(Time)[1])
+Time = cbind(ID,Time)
+
+```
+
+#### Job Title
+
+The job titles have similarities between many of the rows but, the data tends to have some exta information which prevent effective grouping. 
+```{r}
+# This code looks to extract the usefuk information for better grouping.
+
+job_title = union(unique(seek$job_title), unique(reed$job_title))
+job_title  = data.frame(job_title)
+clean_job_title = function(job_title){
+  for(i in 1:dim(job_title)[1]){
+    if(grepl("Ã", job_title[i,1])){
+      job_title[i,1] = substr(job_title[i,1],1,str_locate(pattern = "Ã",job_title[i,1] )[1] - 1)
+    }
+    if(grepl("-", job_title[i,1])){
+      job_title[i,1] = substr(job_title[i,1],1,str_locate(pattern = "-",job_title[i,1] )[1] - 1)
+    }
+    if(grepl(":", job_title[i,1])){
+      job_title[i,1] = substr(job_title[i,1],1,str_locate(pattern = ":",job_title[i,1] )[1] - 1)
+    }
+    if(grepl("\\|", job_title[i,1])){
+      job_title[i,1] = substr(job_title[i,1],1,str_locate(pattern = "\\|",job_title[i,1] )[1] - 1)
+      }
+    if(grepl('\\(', job_title[i,1])){
+      job_title[i,1] = substr(job_title[i,1],1,str_locate(pattern = '\\(',job_title[i,1] )[1] - 1)
+      }
+     job_title[i,1] = str_remove(tolower(job_title[i,1]), "needed")
+    job_title[i,1] = str_remove(tolower(job_title[i,1]), "required")
+    job_title[i,1] = str_remove(tolower(job_title[i,1]), "wanted")
+    job_title[i,1] = str_remove(tolower(job_title[i,1]), "x2")
+      job_title[i,1] = str_remove(tolower(job_title[i,1]), "x3")
+      job_title[i,1] = str_remove(tolower(job_title[i,1]), ",")
+  }
+  return(job_title)
+}
+```
+
+
+
+```{r}
+job_data = rbind(reed,seek)
+
+job_data["job_title"] = clean_job_title(job_title = job_data["job_title"])
+```
+
+```{r}
+job_title = unique(job_data$job_title)
+```
+
+```{r}
+job_title = data.frame(job_title)
+
+
+ID = seq(1:dim(job_title)[1])
+job_title = cbind(ID, job_title)
+```
+
+
+#### Fact table
+
+```{r}
+# creating fact table
+for( i in 0:80000){
+  job_data[i, "FK category"] =  category[category$category == job_data[i, "category"] ,"ID"]
+  
+  job_data[i, "FK company name"] =  company_name[company_name$company_name == job_data[i, "company_name"] ,"ID"]
+  
+  job_data[i, "FK job type"] = job_type[job_type$job_type == job_data[i, "job_type"] ,"ID"]
+  
+  job_data[i, "FK location"] = intersect(location[location$country == job_data[i, "country"], "ID"],  location[location$city == job_data[i, "city"] ,"ID"])
+  
+job_data[i, "FK time"] = Time[Time$Date == job_data[i, "post_date"] ,"ID"]
+
+
+job_data[i, "FK job title"] = job_title[job_title$job_title == job_data[i, "job_title"] ,"ID"]
+
+  
+  
+  
+}
+```
+
+
+```{r}
+job_data["count"] = 1
+```
+
+```{r}
+Fact_table = job_data[c(names(job_data)[grep("FK", names(job_data))],"count")]
+```
+
+```{r}
+ID = seq(1:dim(Fact_table)[1])
+Fact_table = cbind(ID,Fact_table)
+```
+
+
+```{r}
+write.csv(Fact_table, "FactTable.csv", row.names = FALSE)
+write.csv(category, "DimCategory.csv", row.names = FALSE)
+write.csv(job_type, "DimJobType.csv", row.names = FALSE)
+write.csv(location, "DimLocation.csv", row.names = FALSE)
+write.csv(company_name, "DimCompany.csv", row.names = FALSE)
+write.csv(Time, "DimDate.csv", row.names = FALSE)
+write.csv(job_type, "DimJobType.csv", row.names = FALSE)
+```
+
+```{r}
+write.csv(job_title, "DimJobTitle.csv", row.names = FALSE)
+```
+

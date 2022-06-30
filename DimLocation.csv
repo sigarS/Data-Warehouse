@@ -1,0 +1,2976 @@
+ID,city,country
+1,ACT,Australia
+2,Adelaide,Australia
+3,Adelaide Hills & Barossa,Australia
+4,Albany & Great Southern,Australia
+5,Albury Wodonga & Murray,Australia
+6,Alice Springs & Central Australia,Australia
+7,Bairnsdale & Gippsland,Australia
+8,Ballarat & Central Highlands,Australia
+9,Bendigo Goldfields & Macedon Ranges,Australia
+10,Blue Mountains & Central West,Australia
+11,Brisbane,Australia
+12,Broome & Kimberley,Australia
+13,Bunbury & South West,Australia
+14,Bundaberg & Wide Bay Burnett,Australia
+15,Cairns & Far North,Australia
+16,Central & South East,Australia
+17,Coffs Harbour & North Coast,Australia
+18,Coober Pedy & Outback SA,Australia
+19,Darwin,Australia
+20,Devonport & North West,Australia
+21,Dubbo & Central NSW,Australia
+22,Far West & North Central NSW,Australia
+23,Fleurieu Peninsula & Kangaroo Island,Australia
+24,Geelong & Great Ocean Road,Australia
+25,Geraldton Gascoyne & Midwest,Australia
+26,Gladstone & Central QLD,Australia
+27,Gold Coast,Australia
+28,Gosford & Central Coast,Australia
+29,Goulburn & Southern Tablelands,Australia
+30,Hervey Bay & Fraser Coast,Australia
+31,Hobart,Australia
+32,Horsham & Grampians,Australia
+33,Kalgoorlie Goldfields & Esperance,Australia
+34,Katherine & Northern Australia,Australia
+35,Launceston & North East,Australia
+36,Lismore & Far North Coast,Australia
+37,Mackay & Coalfields,Australia
+38,Mandurah & Peel,Australia
+39,Melbourne,Australia
+40,Mildura & Murray,Australia
+41,Mornington Peninsula & Bass Coast,Australia
+42,Mt Gambier & Limestone Coast,Australia
+43,Mt Isa & Western QLD,Australia
+44,Newcastle Maitland & Hunter,Australia
+45,Northam & Wheatbelt,Australia
+46,Perth,Australia
+47,Port Hedland Karratha & Pilbara,Australia
+48,Port Macquarie & Mid North Coast,Australia
+49,Richmond & Hawkesbury,Australia
+50,Riverland & Murray Mallee,Australia
+51,Rockhampton & Capricorn Coast,Australia
+52,Shepparton & Goulburn Valley,Australia
+53,Somerset & Lockyer,Australia
+54,Sunshine Coast,Australia
+55,Sydney,Australia
+56,Tamworth & North West NSW,Australia
+57,Toowoomba & Darling Downs,Australia
+58,Townsville & Northern QLD,Australia
+59,Traralgon & La Trobe Valley,Australia
+60,Tumut Southern Highlands & Snowy,Australia
+61,Unknown,Australia
+62,Wagga Wagga & Riverina,Australia
+63,Whyalla & Eyre Peninsula,Australia
+64,Wollongong Illawarra & South Coast,Australia
+65,Yarra Valley & High Country,Australia
+66,Yorke Peninsula & Clare Valley,Australia
+67,Brussels,Belgium
+68,Unknown,Belgium
+69,Unknown,Brazil
+70,Spotted Lake,Canada
+71,Unknown,Cayman Islands
+72,Beijing,China
+73,Hong Kong,China
+74,Unknown,China
+75,Xiâ€™an,China
+76,Copenhagen,Denmark
+77,copenhagen,Denmark
+78,Unknown,Egypt
+79,Marseille,France
+80,Nice,France
+81,Paris,France
+82,Unknown,France
+83,dijon,France
+84,Dusseldorf,Germany
+85,FRANKFURT,Germany
+86,Frankfurt,Germany
+87,Hamburg,Germany
+88,Hohenfels Germany ,Germany
+89,Munich,Germany
+90,Unknown,Germany
+91,frankfurt,Germany
+92,munich,Germany
+93,Athens,Greece
+94,BUDAPEST,Hungary
+95,Unknown,Hungary
+96,Unknown,Indonesia
+97,Baghdad,Iraq
+98,Ballinamore,Ireland
+99,Belfast,Ireland
+100,Cork,Ireland
+101,D?n Laoghaire,Ireland
+102,DUBLIN CITY CENTRE,Ireland
+103,Donegal,Ireland
+104,Drogheda,Ireland
+105,Dublin,Ireland
+106,Galway,Ireland
+107,Kerry,Ireland
+108,Kildare,Ireland
+109,Limerick,Ireland
+110,Mayo,Ireland
+111,Munster,Ireland
+112,Omagh,Ireland
+113,Sligo,Ireland
+114,Unknown,Ireland
+115,Waterford,Ireland
+116,Monza,Italy
+117,Unknown,Italy
+118,Amsterdam,Netherlands
+119,Rotterdam,Netherlands
+120,The Hague,Netherlands
+121,Unknown,Netherlands
+122,amsterdam,Netherlands
+123,Christchurch,New Zealand
+124,Unknown,New Zealand
+125,Unknown,Norway
+126,KRAKÃ“W,Poland
+127,Unknown,Poland
+128,Algarve,Portugal
+129,Lisbon,Portugal
+130,Unknown,Portugal
+131,Al Khobar,Saudi Arabia
+132,Buraidah,Saudi Arabia
+133,Jeddah,Saudi Arabia
+134,Unknown,Saudi Arabia
+135,Barcelona,Spain
+136,Mallorca,Spain
+137,Marbella,Spain
+138,Minorca,Spain
+139,Unknown,Spain
+140,Unknown,Sweden
+141,Aargau,Switzerland
+142,Geneva,Switzerland
+143,Unknown,Switzerland
+144,Zurich,Switzerland
+145,Taipei,Taiwan
+146,Unknown,Thailand
+147,Unknown,Turkey
+148,Austin -Texas,USA
+149,California,USA
+150,Houston,USA
+151,Los Angeles,USA
+152,Miami Beach,USA
+153,New York,USA
+154,New york,USA
+155,Unknown,USA
+156,West Coast,USA
+157,Unknown,Ukraine
+158,Ab Kettleby,United Kingdom
+159,Abbey Park,United Kingdom
+160,Abbeydale,United Kingdom
+161,Abbots Langley,United Kingdom
+162,Abbots Ripton,United Kingdom
+163,Aberchirder,United Kingdom
+164,Aberdare,United Kingdom
+165,Aberdeen,United Kingdom
+166,Aberdeen Airport,United Kingdom
+167,Aberdeenshire,United Kingdom
+168,Aberfeldy,United Kingdom
+169,Aberford,United Kingdom
+170,Abergavenny,United Kingdom
+171,Abergele,United Kingdom
+172,Aberthaw,United Kingdom
+173,Abertillery,United Kingdom
+174,Aberystwyth,United Kingdom
+175,Abingdon,United Kingdom
+176,Abingdon Science Park,United Kingdom
+177,Acaster Airfield,United Kingdom
+178,Accrington,United Kingdom
+179,Achfary,United Kingdom
+180,Acton,United Kingdom
+181,Adbaston,United Kingdom
+182,Addlestone,United Kingdom
+183,Afghanistan,United Kingdom
+184,Aigburth,United Kingdom
+185,Aintree,United Kingdom
+186,Airdrie,United Kingdom
+187,Airfield Industrial Estate,United Kingdom
+188,Airton,United Kingdom
+189,Albourne,United Kingdom
+190,Alcester,United Kingdom
+191,Alconbury,United Kingdom
+192,Alderley Edge,United Kingdom
+193,Aldersgate,United Kingdom
+194,Aldershot,United Kingdom
+195,Aldridge,United Kingdom
+196,Aldringham,United Kingdom
+197,Aldrington,United Kingdom
+198,Alexandria,United Kingdom
+199,Alfreton,United Kingdom
+200,All Emirates,United Kingdom
+201,Allesley,United Kingdom
+202,Allington,United Kingdom
+203,Alloa,United Kingdom
+204,Almondsbury,United Kingdom
+205,Alness,United Kingdom
+206,Alnwick,United Kingdom
+207,Alresford,United Kingdom
+208,Alrewas,United Kingdom
+209,Alston Sutton,United Kingdom
+210,Altens Industrial Estate,United Kingdom
+211,Alton,United Kingdom
+212,Altrincham,United Kingdom
+213,Alva,United Kingdom
+214,Alvanley,United Kingdom
+215,Alvaston,United Kingdom
+216,Alvechurch,United Kingdom
+217,Alverton,United Kingdom
+218,Amblecote,United Kingdom
+219,Ambleside,United Kingdom
+220,Amersham,United Kingdom
+221,Amesbury,United Kingdom
+222,Amington,United Kingdom
+223,Ammanford,United Kingdom
+224,Ampthill,United Kingdom
+225,Ampthill Business Park,United Kingdom
+226,Andover,United Kingdom
+227,Anfield,United Kingdom
+228,Angmering,United Kingdom
+229,Angus,United Kingdom
+230,Annan,United Kingdom
+231,Annesley,United Kingdom
+232,Annesley Woodhouse,United Kingdom
+233,Ansty Park,United Kingdom
+234,Antrim,United Kingdom
+235,Apperley Bridge,United Kingdom
+236,Appleby-In-Westmorland,United Kingdom
+237,Appleton,United Kingdom
+238,Appleton Thorn,United Kingdom
+239,Arboretum,United Kingdom
+240,Arbroath,United Kingdom
+241,Ardleigh,United Kingdom
+242,Argyll,United Kingdom
+243,Arleston,United Kingdom
+244,Armley,United Kingdom
+245,Armthorpe,United Kingdom
+246,Arnhall Business Park,United Kingdom
+247,Arnold,United Kingdom
+248,Arnos Vale,United Kingdom
+249,Artington,United Kingdom
+250,Arundel,United Kingdom
+251,Ascot,United Kingdom
+252,Ash Vale,United Kingdom
+253,Ashbourne,United Kingdom
+254,Ashburton,United Kingdom
+255,Ashby-De-La-Zouch,United Kingdom
+256,Ashby-de-la-Zouch,United Kingdom
+257,Ashchurch,United Kingdom
+258,Ashcombe,United Kingdom
+259,Ashdown Forest,United Kingdom
+260,Ashford,United Kingdom
+261,Ashford Business Park,United Kingdom
+262,Ashington,United Kingdom
+263,Ashley,United Kingdom
+264,Ashorne,United Kingdom
+265,Ashtead,United Kingdom
+266,Ashton-on-Ribble,United Kingdom
+267,Ashton-under-Lyne,United Kingdom
+268,Ashurst,United Kingdom
+269,Asthall,United Kingdom
+270,Astmoor Industrial Estate,United Kingdom
+271,Aston,United Kingdom
+272,Atherstone,United Kingdom
+273,Atherstone On Stour,United Kingdom
+274,Atherton,United Kingdom
+275,Attingham,United Kingdom
+276,Attleborough,United Kingdom
+277,Auchterarder,United Kingdom
+278,Auckley,United Kingdom
+279,Audenshaw,United Kingdom
+280,Aust,United Kingdom
+281,Aveley,United Kingdom
+282,Avon,United Kingdom
+283,Avonmouth,United Kingdom
+284,Avonmouth Trading Estate,United Kingdom
+285,Aycliffe Business Park,United Kingdom
+286,Aylesbury,United Kingdom
+287,Aylesford,United Kingdom
+288,Aylsham,United Kingdom
+289,Ayr,United Kingdom
+290,Ayrshire,United Kingdom
+291,BRNO,United Kingdom
+292,Babdown,United Kingdom
+293,Babraham,United Kingdom
+294,Bacton,United Kingdom
+295,Badersfield,United Kingdom
+296,Badminton,United Kingdom
+297,Baginton,United Kingdom
+298,Baglan,United Kingdom
+299,Bagshot,United Kingdom
+300,Bagworth,United Kingdom
+301,Bahrain,United Kingdom
+302,Baildon,United Kingdom
+303,Bakewell,United Kingdom
+304,Balby,United Kingdom
+305,Balcombe,United Kingdom
+306,Baldock,United Kingdom
+307,Balham,United Kingdom
+308,Balivanich,United Kingdom
+309,Ballycastle,United Kingdom
+310,Ballymena,United Kingdom
+311,Balmalcolm,United Kingdom
+312,Balsham,United Kingdom
+313,Bamber Bridge,United Kingdom
+314,Bamburgh,United Kingdom
+315,Bampton,United Kingdom
+316,Banbury,United Kingdom
+317,Banbury Business Park,United Kingdom
+318,Banchory,United Kingdom
+319,Banff,United Kingdom
+320,Bangor,United Kingdom
+321,Banham,United Kingdom
+322,Banstead,United Kingdom
+323,Bar Hill,United Kingdom
+324,Barbados,United Kingdom
+325,Barbican,United Kingdom
+326,Bardon Hill,United Kingdom
+327,Barking,United Kingdom
+328,Barlaston,United Kingdom
+329,Barlborough,United Kingdom
+330,Barlow,United Kingdom
+331,Barnard Castle,United Kingdom
+332,Barnet,United Kingdom
+333,Barnham,United Kingdom
+334,Barnsley,United Kingdom
+335,Barnstaple,United Kingdom
+336,Barnwood,United Kingdom
+337,Barrow,United Kingdom
+338,Barrow Upon Soar,United Kingdom
+339,Barrow-In-Furness,United Kingdom
+340,Barrow-in-Furness,United Kingdom
+341,Barrow-upon-Humber,United Kingdom
+342,Barrowford,United Kingdom
+343,Barry,United Kingdom
+344,Barston,United Kingdom
+345,Bartestree,United Kingdom
+346,Barton Hartshorn,United Kingdom
+347,Barton Under Needwood,United Kingdom
+348,Barton-le-Clay,United Kingdom
+349,Barton-upon-Humber,United Kingdom
+350,Basildon,United Kingdom
+351,Basing View,United Kingdom
+352,Basingstoke,United Kingdom
+353,Baston,United Kingdom
+354,Bath,United Kingdom
+355,Bath Spa,United Kingdom
+356,Bathgate,United Kingdom
+357,Batley,United Kingdom
+358,Battersea,United Kingdom
+359,Battle,United Kingdom
+360,Beaconsfield,United Kingdom
+361,Beaminster,United Kingdom
+362,Bearsden,United Kingdom
+363,Bearsted,United Kingdom
+364,Beccles,United Kingdom
+365,Beckenham,United Kingdom
+366,Beckington,United Kingdom
+367,Beckton,United Kingdom
+368,Bedale,United Kingdom
+369,Beddington,United Kingdom
+370,Bedford,United Kingdom
+371,Bedfordshire,United Kingdom
+372,Bedlington,United Kingdom
+373,Bedminster,United Kingdom
+374,Bedwas House Industrial Estate,United Kingdom
+375,Bedworth,United Kingdom
+376,Beech,United Kingdom
+377,Beeston,United Kingdom
+378,Beighton,United Kingdom
+379,Belbroughton,United Kingdom
+380,Belfast,United Kingdom
+381,Belgravia,United Kingdom
+382,Bellbrook Industrial Estate,United Kingdom
+383,Bellshill,United Kingdom
+384,Bellshill Industrial Estate,United Kingdom
+385,Belmont Industrial Estate,United Kingdom
+386,Belper,United Kingdom
+387,Belton,United Kingdom
+388,Belvedere,United Kingdom
+389,Benfleet,United Kingdom
+390,Benson,United Kingdom
+391,Berkhamstead,United Kingdom
+392,Berkhamsted,United Kingdom
+393,Berkshire,United Kingdom
+394,Bermondsey,United Kingdom
+395,Bermuda Park,United Kingdom
+396,Berry Hill Industrial Estate,United Kingdom
+397,Berwick,United Kingdom
+398,Berwick-Upon-Tweed,United Kingdom
+399,Bestwood Village,United Kingdom
+400,Bethersden,United Kingdom
+401,Bethesda,United Kingdom
+402,Bethnal Green,United Kingdom
+403,Beverley,United Kingdom
+404,Bexhill-On-Sea,United Kingdom
+405,Bexhill-on-Sea,United Kingdom
+406,Bexley,United Kingdom
+407,Bexleyheath,United Kingdom
+408,Bicester,United Kingdom
+409,Bicester Village,United Kingdom
+410,Biddulph,United Kingdom
+411,Bideford,United Kingdom
+412,Biggar,United Kingdom
+413,Biggin Hill,United Kingdom
+414,Biggin Hill Airport,United Kingdom
+415,Biggleswade,United Kingdom
+416,Billericay,United Kingdom
+417,Billingham,United Kingdom
+418,Billingshurst,United Kingdom
+419,Bilsthorpe,United Kingdom
+420,Bilston,United Kingdom
+421,Bingham,United Kingdom
+422,Bingley,United Kingdom
+423,Birch Coppice Business Park,United Kingdom
+424,Birchington,United Kingdom
+425,Birchwood,United Kingdom
+426,Birdsall,United Kingdom
+427,Birkenhead,United Kingdom
+428,Birlingham,United Kingdom
+429,Birmingham,United Kingdom
+430,Birmingham Airport,United Kingdom
+431,Birmingham Business Park,United Kingdom
+432,Birstall,United Kingdom
+433,Birtley,United Kingdom
+434,Bishop Auckland,United Kingdom
+435,Bishop's Stortford,United Kingdom
+436,Bishopbriggs,United Kingdom
+437,Bishops Cleeve,United Kingdom
+438,Bishops Nympton,United Kingdom
+439,Bishops Tachbrook,United Kingdom
+440,Bishops Waltham,United Kingdom
+441,Bishopsgate,United Kingdom
+442,Bishopsworth,United Kingdom
+443,Bishopthorpe,United Kingdom
+444,Bishopton,United Kingdom
+445,Blaby,United Kingdom
+446,Blackburn,United Kingdom
+447,Blackfriars,United Kingdom
+448,Blackheath,United Kingdom
+449,Blackpool,United Kingdom
+450,Blackrod,United Kingdom
+451,Blackwell,United Kingdom
+452,Blaenau Ffestiniog,United Kingdom
+453,Blaenau-Gwent,United Kingdom
+454,Blaenavon,United Kingdom
+455,Blagdon,United Kingdom
+456,Blakelands,United Kingdom
+457,Blakeney,United Kingdom
+458,Blandford Camp,United Kingdom
+459,Blandford Forum,United Kingdom
+460,Blaydon-on-Tyne,United Kingdom
+461,Bleak Hall,United Kingdom
+462,Bletchley,United Kingdom
+463,Blickling,United Kingdom
+464,Blidworth,United Kingdom
+465,Blindley Heath,United Kingdom
+466,Blofield,United Kingdom
+467,Bloomsbury,United Kingdom
+468,Bluewater,United Kingdom
+469,Blyth,United Kingdom
+470,Bodelva,United Kingdom
+471,Bodiam,United Kingdom
+472,Bodmin,United Kingdom
+473,Bognor Regis,United Kingdom
+474,Boldon,United Kingdom
+475,Boldon Business Park,United Kingdom
+476,Bollington,United Kingdom
+477,Bolney,United Kingdom
+478,Bolton,United Kingdom
+479,Bonar Bridge,United Kingdom
+480,Bonnybridge,United Kingdom
+481,Bonnyrigg,United Kingdom
+482,Bootle,United Kingdom
+483,Bordon,United Kingdom
+484,Borehamwood,United Kingdom
+485,Borough,United Kingdom
+486,Boroughbridge,United Kingdom
+487,Borrowash,United Kingdom
+488,Boscombe Down,United Kingdom
+489,Bosham,United Kingdom
+490,Boston,United Kingdom
+491,Bothwell,United Kingdom
+492,Botley,United Kingdom
+493,Bottisham,United Kingdom
+494,Boughton,United Kingdom
+495,Boughton Lees,United Kingdom
+496,Bouldnor,United Kingdom
+497,Bourne,United Kingdom
+498,Bourne Business Park,United Kingdom
+499,Bourne End,United Kingdom
+500,Bournemouth,United Kingdom
+501,Bournemouth International Airport,United Kingdom
+502,Bournville,United Kingdom
+503,Bourton-on-the-Water,United Kingdom
+504,Bovey Tracey,United Kingdom
+505,Bovington,United Kingdom
+506,Bow,United Kingdom
+507,Bowburn,United Kingdom
+508,Bowness-on-Windermere,United Kingdom
+509,Brackla,United Kingdom
+510,Brackley,United Kingdom
+511,Brackmills Industrial Estate,United Kingdom
+512,Bracknell,United Kingdom
+513,Bradford,United Kingdom
+514,Bradford-on-Avon,United Kingdom
+515,Bradley Stoke,United Kingdom
+516,Braintree,United Kingdom
+517,Brambridge,United Kingdom
+518,Bramhall,United Kingdom
+519,Bramham,United Kingdom
+520,Bramley,United Kingdom
+521,Brampton,United Kingdom
+522,Brandon,United Kingdom
+523,Branksome,United Kingdom
+524,Brasside,United Kingdom
+525,Braunstone,United Kingdom
+526,Braunton,United Kingdom
+527,Breaston,United Kingdom
+528,Brecon,United Kingdom
+529,Bredbury,United Kingdom
+530,Bredbury Park Industrial Estate,United Kingdom
+531,Brent,United Kingdom
+532,Brent Cross,United Kingdom
+533,Brentford,United Kingdom
+534,Brentwood,United Kingdom
+535,Bretby,United Kingdom
+536,Bretton,United Kingdom
+537,Brickhill,United Kingdom
+538,Bridge of Allan,United Kingdom
+539,Bridge of Don,United Kingdom
+540,Bridgend,United Kingdom
+541,Bridgend Industrial Estate,United Kingdom
+542,Bridgerule,United Kingdom
+543,Bridgnorth,United Kingdom
+544,Bridgwater,United Kingdom
+545,Bridlington,United Kingdom
+546,Bridport,United Kingdom
+547,Brierley Hill,United Kingdom
+548,Brigg,United Kingdom
+549,Brighouse,United Kingdom
+550,Brightlingsea,United Kingdom
+551,Brighton,United Kingdom
+552,Brinklow,United Kingdom
+553,Brinkworth,United Kingdom
+554,Brislington,United Kingdom
+555,Bristol,United Kingdom
+556,Bristol International Airport,United Kingdom
+557,Brixton,United Kingdom
+558,Broadford,United Kingdom
+559,Broadheath,United Kingdom
+560,Broadstairs,United Kingdom
+561,Broadstone,United Kingdom
+562,Broadway,United Kingdom
+563,Brockenhurst,United Kingdom
+564,Brockworth,United Kingdom
+565,Brokerswood,United Kingdom
+566,Bromborough,United Kingdom
+567,Bromham,United Kingdom
+568,Bromley,United Kingdom
+569,Bromsgrove,United Kingdom
+570,Bromyard,United Kingdom
+571,Brookmans Park,United Kingdom
+572,Brookwood,United Kingdom
+573,Broomfield,United Kingdom
+574,Brough,United Kingdom
+575,Broughton-in-Furness,United Kingdom
+576,Brownhills,United Kingdom
+577,Broxbourne,United Kingdom
+578,Broxburn,United Kingdom
+579,Broxton,United Kingdom
+580,Brundall,United Kingdom
+581,Brunswick Village,United Kingdom
+582,Bubbenhall,United Kingdom
+583,Bubwith,United Kingdom
+584,Buckden,United Kingdom
+585,Buckhurst Hill,United Kingdom
+586,Buckie,United Kingdom
+587,Buckingham,United Kingdom
+588,Buckinghamshire,United Kingdom
+589,Buckley,United Kingdom
+590,Bude,United Kingdom
+591,Bulwell,United Kingdom
+592,Bungay,United Kingdom
+593,Buntingford,United Kingdom
+594,Burbage,United Kingdom
+595,Burford,United Kingdom
+596,Burgess Hill,United Kingdom
+597,Burgh Heath,United Kingdom
+598,Burnham,United Kingdom
+599,Burnham Green,United Kingdom
+600,Burnham-On-Sea,United Kingdom
+601,Burnham-on-Crouch,United Kingdom
+602,Burnham-on-Sea,United Kingdom
+603,Burnley,United Kingdom
+604,Burnopfield,United Kingdom
+605,Burnt Oak,United Kingdom
+606,Burntwood,United Kingdom
+607,Burstow,United Kingdom
+608,Burton,United Kingdom
+609,Burton Latimer,United Kingdom
+610,Burton-On-Trent,United Kingdom
+611,Burton-on-Trent,United Kingdom
+612,Burtonwood,United Kingdom
+613,Bury,United Kingdom
+614,Bury St. Edmunds,United Kingdom
+615,Bushey,United Kingdom
+616,Buttershaw,United Kingdom
+617,Buxton,United Kingdom
+618,Byfleet,United Kingdom
+619,CZECH REPUBLIC,United Kingdom
+620,Cade Street,United Kingdom
+621,Caernarfon,United Kingdom
+622,Caerphilly,United Kingdom
+623,Cairndow,United Kingdom
+624,Calcethorpe,United Kingdom
+625,Calcot,United Kingdom
+626,Caldecotte,United Kingdom
+627,Calder Grove,United Kingdom
+628,Caldicot,United Kingdom
+629,Callington,United Kingdom
+630,Calne,United Kingdom
+631,Calthwaite,United Kingdom
+632,Camberley,United Kingdom
+633,Camberwell,United Kingdom
+634,Camborne,United Kingdom
+635,Cambourne,United Kingdom
+636,Cambridge,United Kingdom
+637,Cambridgeshire,United Kingdom
+638,Cambuslang,United Kingdom
+639,Camden,United Kingdom
+640,Camden Town,United Kingdom
+641,Campbeltown,United Kingdom
+642,Canary Wharf,United Kingdom
+643,Canning Town,United Kingdom
+644,Cannington,United Kingdom
+645,Cannock,United Kingdom
+646,Canterbury,United Kingdom
+647,Canton,United Kingdom
+648,Canvey Island,United Kingdom
+649,Capel,United Kingdom
+650,Capel-le-Ferne,United Kingdom
+651,Cardiff,United Kingdom
+652,Cardiff Business Park,United Kingdom
+653,Cardiff Do,United Kingdom
+654,Cardiff Gate,United Kingdom
+655,Cardiff Gate Business Park,United Kingdom
+656,Carlisle,United Kingdom
+657,Carlton,United Kingdom
+658,Carluke,United Kingdom
+659,Carmarthen,United Kingdom
+660,Carmarthenshire,United Kingdom
+661,Carrington,United Kingdom
+662,Carrville,United Kingdom
+663,Carshalton,United Kingdom
+664,Carstairs Junction,United Kingdom
+665,Carterton,United Kingdom
+666,Castle Cary,United Kingdom
+667,Castle Donington,United Kingdom
+668,Castle Vale,United Kingdom
+669,Castleford,United Kingdom
+670,Caswell,United Kingdom
+671,Catcliffe,United Kingdom
+672,Caterham,United Kingdom
+673,Catford,United Kingdom
+674,Catterick Garrison,United Kingdom
+675,Cauldon,United Kingdom
+676,Central London,United Kingdom
+677,Central Park,United Kingdom
+678,Centrum One Hundred,United Kingdom
+679,Chadderton,United Kingdom
+680,Chadwell Heath,United Kingdom
+681,Chaldon,United Kingdom
+682,Chalfont St. Giles,United Kingdom
+683,Chalfont St. Peter,United Kingdom
+684,Chalgrove,United Kingdom
+685,Chandlers Ford,United Kingdom
+686,Chard,United Kingdom
+687,Charing,United Kingdom
+688,Charing Cross,United Kingdom
+689,Charlecote,United Kingdom
+690,Charlestown,United Kingdom
+691,Charter Avenue Industrial Estate,United Kingdom
+692,Chartham,United Kingdom
+693,Chasetown,United Kingdom
+694,Chatham,United Kingdom
+695,Chatteris,United Kingdom
+696,Cheadle,United Kingdom
+697,Cheadle Hulme,United Kingdom
+698,Cheam,United Kingdom
+699,Chedburgh,United Kingdom
+700,Cheddar,United Kingdom
+701,Chelmsford,United Kingdom
+702,Chelsea,United Kingdom
+703,Cheltenham,United Kingdom
+704,Chepstow,United Kingdom
+705,Chertsey,United Kingdom
+706,Chesham,United Kingdom
+707,Cheshire,United Kingdom
+708,Cheshire Oaks,United Kingdom
+709,Cheshunt,United Kingdom
+710,Chessington,United Kingdom
+711,Chester,United Kingdom
+712,Chester Business Park,United Kingdom
+713,Chester Le Street,United Kingdom
+714,Chester West Employment Park,United Kingdom
+715,Chesterfield,United Kingdom
+716,Chichester,United Kingdom
+717,Chicksands,United Kingdom
+718,Chigwell,United Kingdom
+719,Chilton,United Kingdom
+720,Chilwell,United Kingdom
+721,Chilwell Meadows Business Park,United Kingdom
+722,Chineham Business Park,United Kingdom
+723,Chingford,United Kingdom
+724,Chippenham,United Kingdom
+725,Chipping Campden,United Kingdom
+726,Chipping Norton,United Kingdom
+727,Chipping Sodbury,United Kingdom
+728,Chislehurst,United Kingdom
+729,Chiswick,United Kingdom
+730,Chobham,United Kingdom
+731,Chorley,United Kingdom
+732,Christchurch,United Kingdom
+733,Chudleigh,United Kingdom
+734,Chulmleigh,United Kingdom
+735,Church Crookham,United Kingdom
+736,Churchill,United Kingdom
+737,Churt,United Kingdom
+738,Cinderford,United Kingdom
+739,Cirencester,United Kingdom
+740,City Centre,United Kingdom
+741,City Of London,United Kingdom
+742,City of London,United Kingdom
+743,Civic Centre,United Kingdom
+744,Clackmannanshire,United Kingdom
+745,Clacton-on-Sea,United Kingdom
+746,Clapham,United Kingdom
+747,Clapham Junction,United Kingdom
+748,Clarkston,United Kingdom
+749,Cleator Moor,United Kingdom
+750,Cleckheaton,United Kingdom
+751,Cleethorpes,United Kingdom
+752,Clerkenwell,United Kingdom
+753,Clevedon,United Kingdom
+754,Cleveland,United Kingdom
+755,Cliffe,United Kingdom
+756,Clifton,United Kingdom
+757,Clitheroe,United Kingdom
+758,Clwyd,United Kingdom
+759,Clydebank,United Kingdom
+760,Clydebank Business Park,United Kingdom
+761,Clyst Honiton,United Kingdom
+762,Clyst St. Mary,United Kingdom
+763,Coalville,United Kingdom
+764,Coatbridge,United Kingdom
+765,Cobalt Business Park,United Kingdom
+766,Cobham,United Kingdom
+767,Cockburnspath,United Kingdom
+768,Cockermouth,United Kingdom
+769,Cockfosters,United Kingdom
+770,Codnor,United Kingdom
+771,Coedkernew,United Kingdom
+772,Colchester,United Kingdom
+773,Coleford,United Kingdom
+774,Coleraine,United Kingdom
+775,Coleshill,United Kingdom
+776,Colindale,United Kingdom
+777,College Town,United Kingdom
+778,Collington,United Kingdom
+779,Colnbrook,United Kingdom
+780,Colne,United Kingdom
+781,Colney Street,United Kingdom
+782,Colton,United Kingdom
+783,Colwick,United Kingdom
+784,Colwyn Bay,United Kingdom
+785,Compton,United Kingdom
+786,Congleton,United Kingdom
+787,Congresbury,United Kingdom
+788,Connah's Quay,United Kingdom
+789,Consett,United Kingdom
+790,Conwy,United Kingdom
+791,Cookham,United Kingdom
+792,Cookstown,United Kingdom
+793,Copdock,United Kingdom
+794,Corbridge,United Kingdom
+795,Corby,United Kingdom
+796,Corby Glen,United Kingdom
+797,Cork's Pond,United Kingdom
+798,Cornhill-On-Tweed,United Kingdom
+799,Cornwall,United Kingdom
+800,Corsham,United Kingdom
+801,Corwen,United Kingdom
+802,Cosham,United Kingdom
+803,Coton,United Kingdom
+804,Cottenham,United Kingdom
+805,Coulsdon,United Kingdom
+806,County Antrim,United Kingdom
+807,County Armagh,United Kingdom
+808,County Down,United Kingdom
+809,County Durham,United Kingdom
+810,County Fermanagh,United Kingdom
+811,Coven,United Kingdom
+812,Covent Garden,United Kingdom
+813,Coventry,United Kingdom
+814,Cowbridge,United Kingdom
+815,Cowdenbeath,United Kingdom
+816,Cowes,United Kingdom
+817,Cowley,United Kingdom
+818,Cradley,United Kingdom
+819,Cradley Heath,United Kingdom
+820,Craigavon,United Kingdom
+821,Craigforth,United Kingdom
+822,Cramlington,United Kingdom
+823,Cranborne,United Kingdom
+824,Cranbrook,United Kingdom
+825,Cranfield,United Kingdom
+826,Cranford,United Kingdom
+827,Cranleigh,United Kingdom
+828,Crapstone,United Kingdom
+829,Craven Arms,United Kingdom
+830,Crawley,United Kingdom
+831,Crayford,United Kingdom
+832,Crediton,United Kingdom
+833,Cressex Business Park,United Kingdom
+834,Crewe,United Kingdom
+835,Crewkerne,United Kingdom
+836,Criccieth,United Kingdom
+837,Crick,United Kingdom
+838,Crick Industrial Estate,United Kingdom
+839,Cricklewood,United Kingdom
+840,Cringleford,United Kingdom
+841,Croft,United Kingdom
+842,Cromer,United Kingdom
+843,Crook,United Kingdom
+844,Crosby,United Kingdom
+845,Cross Green,United Kingdom
+846,Cross Hills,United Kingdom
+847,Crosshouse,United Kingdom
+848,Crossways Business Park,United Kingdom
+849,Crowborough,United Kingdom
+850,Crowmarsh Gifford,United Kingdom
+851,Crownhill,United Kingdom
+852,Crowthorne,United Kingdom
+853,Croydon,United Kingdom
+854,Crystal Palace,United Kingdom
+855,Crystal Peaks,United Kingdom
+856,Cuffley,United Kingdom
+857,Culford,United Kingdom
+858,Culham,United Kingdom
+859,Cullompton,United Kingdom
+860,Cumbernauld,United Kingdom
+861,Cumbria,United Kingdom
+862,Cupar,United Kingdom
+863,Curbridge,United Kingdom
+864,Cutnall Green,United Kingdom
+865,Cutteslowe,United Kingdom
+866,Cwmbran,United Kingdom
+867,Cygnet Park,United Kingdom
+868,Dagenham,United Kingdom
+869,Dalgety Bay,United Kingdom
+870,Dalkeith,United Kingdom
+871,Dalston,United Kingdom
+872,Dalton,United Kingdom
+873,Danbury,United Kingdom
+874,Daresbury,United Kingdom
+875,Darley Abbey,United Kingdom
+876,Darlington,United Kingdom
+877,Dartford,United Kingdom
+878,Dartmouth,United Kingdom
+879,Darton,United Kingdom
+880,Darwen,United Kingdom
+881,Datchet,United Kingdom
+882,Daventry,United Kingdom
+883,Daventry Rail Freight Terminal,United Kingdom
+884,Daylesford,United Kingdom
+885,Deal,United Kingdom
+886,Dean Clough Industrial Park,United Kingdom
+887,Dearne Valley,United Kingdom
+888,Debenham,United Kingdom
+889,Deepcut,United Kingdom
+890,Deeside,United Kingdom
+891,Deeside Industrial Park,United Kingdom
+892,Delamere,United Kingdom
+893,Denbigh,United Kingdom
+894,Denbury,United Kingdom
+895,Denham,United Kingdom
+896,Denton,United Kingdom
+897,Dentons Green,United Kingdom
+898,Deptford,United Kingdom
+899,Derby,United Kingdom
+900,Derbyshire,United Kingdom
+901,Dereham,United Kingdom
+902,Derriford,United Kingdom
+903,Derrington,United Kingdom
+904,Derry,United Kingdom
+905,Derwen,United Kingdom
+906,Desborough,United Kingdom
+907,Desford,United Kingdom
+908,Devizes,United Kingdom
+909,Devon,United Kingdom
+910,Dewsbury,United Kingdom
+911,Didcot,United Kingdom
+912,Didsbury,United Kingdom
+913,Diglis,United Kingdom
+914,Dingwall,United Kingdom
+915,Dinnington,United Kingdom
+916,Discovery Park,United Kingdom
+917,Disley,United Kingdom
+918,Diss,United Kingdom
+919,Docklands,United Kingdom
+920,Dodleston,United Kingdom
+921,Dodworth,United Kingdom
+922,Doncaster,United Kingdom
+923,Donnington,United Kingdom
+924,Donnington Wood,United Kingdom
+925,Dorchester,United Kingdom
+926,Dordon,United Kingdom
+927,Dorking,United Kingdom
+928,Dorney,United Kingdom
+929,Dorset,United Kingdom
+930,Dotton,United Kingdom
+931,Dounby,United Kingdom
+932,Dovecot,United Kingdom
+933,Dover,United Kingdom
+934,Downend,United Kingdom
+935,Downham Market,United Kingdom
+936,Downpatrick,United Kingdom
+937,Draycott-in-the-Clay,United Kingdom
+938,Drayton,United Kingdom
+939,Drayton Fields Industrial Estate,United Kingdom
+940,Driffield,United Kingdom
+941,Drimnin,United Kingdom
+942,Dringhouses,United Kingdom
+943,Droitwich,United Kingdom
+944,Dronfield,United Kingdom
+945,Droylsden,United Kingdom
+946,Dubai,United Kingdom
+947,DubaiUnited Arab Emirates,United Kingdom
+948,Dublin,United Kingdom
+949,Duckmanton,United Kingdom
+950,Dudley,United Kingdom
+951,Dufftown,United Kingdom
+952,Dukinfield,United Kingdom
+953,Dulwich,United Kingdom
+954,Dumbarton,United Kingdom
+955,Dumfries,United Kingdom
+956,Dumfriesshire,United Kingdom
+957,Dummer,United Kingdom
+958,Dunbar,United Kingdom
+959,Dundee,United Kingdom
+960,Dunfermline,United Kingdom
+961,Dungannon,United Kingdom
+962,Dungiven,United Kingdom
+963,Dunmow,United Kingdom
+964,Dunoon,United Kingdom
+965,Duns,United Kingdom
+966,Dunstable,United Kingdom
+967,Dunwear,United Kingdom
+968,Durham,United Kingdom
+969,Durrington,United Kingdom
+970,Dursley,United Kingdom
+971,Duston,United Kingdom
+972,Duxford,United Kingdom
+973,Dyfed,United Kingdom
+974,Dyrham,United Kingdom
+975,Eaglestone West,United Kingdom
+976,Ealing,United Kingdom
+977,Earley,United Kingdom
+978,Earls Colne,United Kingdom
+979,Earlsfield,United Kingdom
+980,Earlstrees Industrial Estate,United Kingdom
+981,East Anglia,United Kingdom
+982,East Barnet,United Kingdom
+983,East Croydon,United Kingdom
+984,East Dulwich,United Kingdom
+985,East Finchley,United Kingdom
+986,East Grimstead,United Kingdom
+987,East Grinstead,United Kingdom
+988,East Ham,United Kingdom
+989,East Horsley,United Kingdom
+990,East Kilbride,United Kingdom
+991,East London,United Kingdom
+992,East Lothian,United Kingdom
+993,East Midlands,United Kingdom
+994,East Midlands Airport,United Kingdom
+995,East Molesey,United Kingdom
+996,East Sussex,United Kingdom
+997,Eastbourne,United Kingdom
+998,Eastcote,United Kingdom
+999,Eastfield,United Kingdom
+1000,Eastleigh,United Kingdom
+1001,Eastwood,United Kingdom
+1002,Eaton Socon,United Kingdom
+1003,Ebbsfleet,United Kingdom
+1004,Ebbw Vale,United Kingdom
+1005,Eccles,United Kingdom
+1006,Ecclesfield,United Kingdom
+1007,Edenbridge,United Kingdom
+1008,Edenthorpe,United Kingdom
+1009,Edgbaston,United Kingdom
+1010,Edgware,United Kingdom
+1011,Edinburgh,United Kingdom
+1012,Edinburgh Airport,United Kingdom
+1013,Edmonton,United Kingdom
+1014,Edwyn Ralph,United Kingdom
+1015,Effingham,United Kingdom
+1016,Egham,United Kingdom
+1017,Elgin,United Kingdom
+1018,Elland,United Kingdom
+1019,Ellastone,United Kingdom
+1020,Ellesmere,United Kingdom
+1021,Ellesmere Port,United Kingdom
+1022,Elmbridge,United Kingdom
+1023,Elmswell,United Kingdom
+1024,Elsing,United Kingdom
+1025,Elstead,United Kingdom
+1026,Elstow,United Kingdom
+1027,Elstree,United Kingdom
+1028,Eltham,United Kingdom
+1029,Elveden,United Kingdom
+1030,Elvington,United Kingdom
+1031,Ely,United Kingdom
+1032,Emersons Green,United Kingdom
+1033,Emmer Green,United Kingdom
+1034,Emsworth,United Kingdom
+1035,Enderby,United Kingdom
+1036,Enfield,United Kingdom
+1037,Enfield Town,United Kingdom
+1038,England,United Kingdom
+1039,Epping,United Kingdom
+1040,Epping Green,United Kingdom
+1041,Epping Upland,United Kingdom
+1042,Epsom,United Kingdom
+1043,Erdington,United Kingdom
+1044,Eridge Green,United Kingdom
+1045,Erith,United Kingdom
+1046,Ermine Business Park,United Kingdom
+1047,Esher,United Kingdom
+1048,Essendine,United Kingdom
+1049,Essex,United Kingdom
+1050,Eston,United Kingdom
+1051,Etwall,United Kingdom
+1052,Europarc,United Kingdom
+1053,Euroway Industrial Estate,United Kingdom
+1054,Euston,United Kingdom
+1055,Euxton,United Kingdom
+1056,Evesham,United Kingdom
+1057,Ewell,United Kingdom
+1058,Ewloe,United Kingdom
+1059,Exeter,United Kingdom
+1060,Exeter Airport,United Kingdom
+1061,Exeter Business Park,United Kingdom
+1062,Exhall,United Kingdom
+1063,Exmouth,United Kingdom
+1064,Exning,United Kingdom
+1065,Eye,United Kingdom
+1066,Eynsham,United Kingdom
+1067,Failsworth,United Kingdom
+1068,Fair Oak,United Kingdom
+1069,Fairlight,United Kingdom
+1070,Fakenham,United Kingdom
+1071,Falkirk,United Kingdom
+1072,Fallowfield,United Kingdom
+1073,Falmer,United Kingdom
+1074,Falmouth,United Kingdom
+1075,Fareham,United Kingdom
+1076,Fareham Common,United Kingdom
+1077,Faringdon,United Kingdom
+1078,Farmoor,United Kingdom
+1079,Farnborough,United Kingdom
+1080,Farnham,United Kingdom
+1081,Farnham Common,United Kingdom
+1082,Farnworth,United Kingdom
+1083,Faversham,United Kingdom
+1084,Fawsley,United Kingdom
+1085,Faygate,United Kingdom
+1086,Fazeley,United Kingdom
+1087,Fearnhead,United Kingdom
+1088,Featherstone,United Kingdom
+1089,Feckenham,United Kingdom
+1090,Felden,United Kingdom
+1091,Felixstowe,United Kingdom
+1092,Felling,United Kingdom
+1093,Feltham,United Kingdom
+1094,Fen Ditton,United Kingdom
+1095,Fenstanton,United Kingdom
+1096,Fenton Industrial Estate,United Kingdom
+1097,Feock,United Kingdom
+1098,Ferndown,United Kingdom
+1099,Ferndown Industrial Estate,United Kingdom
+1100,Ferryside,United Kingdom
+1101,Fetcham,United Kingdom
+1102,Fife,United Kingdom
+1103,Filey,United Kingdom
+1104,Filton,United Kingdom
+1105,Finchampstead,United Kingdom
+1106,Finchley,United Kingdom
+1107,Finedon Road Industrial Estate,United Kingdom
+1108,Finningley,United Kingdom
+1109,Finsbury Park,United Kingdom
+1110,Fishguard,United Kingdom
+1111,Fishponds,United Kingdom
+1112,Fleet,United Kingdom
+1113,Fleetwood,United Kingdom
+1114,Flint,United Kingdom
+1115,Flintshire,United Kingdom
+1116,Flitwick,United Kingdom
+1117,Flixton,United Kingdom
+1118,Flore,United Kingdom
+1119,Foel,United Kingdom
+1120,Folkestone,United Kingdom
+1121,Fordham,United Kingdom
+1122,Fordhouses,United Kingdom
+1123,Fordingbridge,United Kingdom
+1124,Forest Gate,United Kingdom
+1125,Forest Hill,United Kingdom
+1126,Forest Row,United Kingdom
+1127,Forfar,United Kingdom
+1128,Formby,United Kingdom
+1129,Fort William,United Kingdom
+1130,Foston,United Kingdom
+1131,Four Oaks,United Kingdom
+1132,Fox Milne,United Kingdom
+1133,Foxhills Industrial Estate,United Kingdom
+1134,Foxholes Business Park,United Kingdom
+1135,Fradley,United Kingdom
+1136,Fradley Park,United Kingdom
+1137,Framingham Earl,United Kingdom
+1138,Framingham Pigot,United Kingdom
+1139,Framlingham,United Kingdom
+1140,Friern Barnet,United Kingdom
+1141,Frilford,United Kingdom
+1142,Frimley,United Kingdom
+1143,Frimley Green,United Kingdom
+1144,Frinton-on-Sea,United Kingdom
+1145,Frodsham,United Kingdom
+1146,Frome,United Kingdom
+1147,Fujairah,United Kingdom
+1148,Fulbourn,United Kingdom
+1149,Fulford,United Kingdom
+1150,Fulham,United Kingdom
+1151,Fulwood,United Kingdom
+1152,Furness Vale,United Kingdom
+1153,GREATER MANCHESTER LANCASHIRE,United Kingdom
+1154,GX11 1AA,United Kingdom
+1155,GX11 1AAGibraltar,United Kingdom
+1156,Gainsborough,United Kingdom
+1157,Galashiels,United Kingdom
+1158,Garforth,United Kingdom
+1159,Gateshead,United Kingdom
+1160,Gatwick,United Kingdom
+1161,Gaydon,United Kingdom
+1162,Gedling,United Kingdom
+1163,Geldeston,United Kingdom
+1164,Gerrards Cross,United Kingdom
+1165,Gibraltar,United Kingdom
+1166,GibraltarGibraltar,United Kingdom
+1167,Gidea Park,United Kingdom
+1168,Giffnock,United Kingdom
+1169,Gildersome,United Kingdom
+1170,Gillingham,United Kingdom
+1171,Gillingham Business Park,United Kingdom
+1172,Girton,United Kingdom
+1173,Gisburn,United Kingdom
+1174,Glasgow,United Kingdom
+1175,Glasgow Airport,United Kingdom
+1176,Glastonbury,United Kingdom
+1177,Gleadless,United Kingdom
+1178,Glebe Farm Industrial Estate,United Kingdom
+1179,Glen Parva,United Kingdom
+1180,Glenfield,United Kingdom
+1181,Glenrothes,United Kingdom
+1182,Glossop,United Kingdom
+1183,Gloucester,United Kingdom
+1184,Gloucester Business Park,United Kingdom
+1185,Gloucestershire,United Kingdom
+1186,Godalming,United Kingdom
+1187,Godden Green,United Kingdom
+1188,Godmanchester,United Kingdom
+1189,Godstone,United Kingdom
+1190,Golborne,United Kingdom
+1191,Golders Green,United Kingdom
+1192,Goldthorpe,United Kingdom
+1193,Golspie,United Kingdom
+1194,Goole,United Kingdom
+1195,Goring,United Kingdom
+1196,Goring-by-Sea,United Kingdom
+1197,Gorseinon,United Kingdom
+1198,Gosfield,United Kingdom
+1199,Gosforth,United Kingdom
+1200,Gosport,United Kingdom
+1201,Gourock,United Kingdom
+1202,Grafham,United Kingdom
+1203,Grafton Street Industrial Estate,United Kingdom
+1204,Grange Farm,United Kingdom
+1205,Grangemouth,United Kingdom
+1206,Grangetown,United Kingdom
+1207,Grantham,United Kingdom
+1208,Gravesend,United Kingdom
+1209,Grays,United Kingdom
+1210,Great Abington,United Kingdom
+1211,Great Barr,United Kingdom
+1212,Great Blakenham,United Kingdom
+1213,Great Bromley,United Kingdom
+1214,Great Cambourne,United Kingdom
+1215,Great Coates,United Kingdom
+1216,Great Dunmow,United Kingdom
+1217,Great Glen,United Kingdom
+1218,Great Hallingbury,United Kingdom
+1219,Great Harwood,United Kingdom
+1220,Great Horwood,United Kingdom
+1221,Great Langdale,United Kingdom
+1222,Great Missenden,United Kingdom
+1223,Great Oakley,United Kingdom
+1224,Great Sankey,United Kingdom
+1225,Great Tew,United Kingdom
+1226,Great Torrington,United Kingdom
+1227,Great Warley,United Kingdom
+1228,Great Witchingham,United Kingdom
+1229,Great Yarmouth,United Kingdom
+1230,Greater Manchester,United Kingdom
+1231,Greatstone,United Kingdom
+1232,Green Fairfield,United Kingdom
+1233,Green Hammerton,United Kingdom
+1234,Greenford,United Kingdom
+1235,Greenham,United Kingdom
+1236,Greenhithe,United Kingdom
+1237,Greenock,United Kingdom
+1238,Greenwich,United Kingdom
+1239,Gretna,United Kingdom
+1240,Grimethorpe,United Kingdom
+1241,Grimsby,United Kingdom
+1242,Groundwell Industrial Estate,United Kingdom
+1243,Grove Park,United Kingdom
+1244,Guernsey,United Kingdom
+1245,Guildford,United Kingdom
+1246,Guiseley,United Kingdom
+1247,Gunnersbury,United Kingdom
+1248,Gwent,United Kingdom
+1249,Hackney,United Kingdom
+1250,Hackney Wick,United Kingdom
+1251,Haddenham,United Kingdom
+1252,Haddington,United Kingdom
+1253,Hadfield,United Kingdom
+1254,Hadleigh,United Kingdom
+1255,Hadleigh Road Industrial Estate,United Kingdom
+1256,Hadley Wood,United Kingdom
+1257,Hadzor,United Kingdom
+1258,Hailsham,United Kingdom
+1259,Hailsham Road,United Kingdom
+1260,Hainault,United Kingdom
+1261,Hairmyres,United Kingdom
+1262,Hale,United Kingdom
+1263,Hale Barns,United Kingdom
+1264,Halesowen,United Kingdom
+1265,Halesworth,United Kingdom
+1266,Halifax,United Kingdom
+1267,Hall Green,United Kingdom
+1268,Halstead,United Kingdom
+1269,Halton,United Kingdom
+1270,Halton Lodge,United Kingdom
+1271,Hamble,United Kingdom
+1272,Hambleton,United Kingdom
+1273,Hambrook,United Kingdom
+1274,Hamilton,United Kingdom
+1275,Hammersmith,United Kingdom
+1276,Hampshire,United Kingdom
+1277,Hampstead,United Kingdom
+1278,Hampton,United Kingdom
+1279,Hampton Hargate,United Kingdom
+1280,Hampton Hill,United Kingdom
+1281,Hampton Wick,United Kingdom
+1282,Hampton-in-Arden,United Kingdom
+1283,Handforth,United Kingdom
+1284,Handsworth,United Kingdom
+1285,Hanley,United Kingdom
+1286,Hanwell,United Kingdom
+1287,Hanworth,United Kingdom
+1288,Hapton,United Kingdom
+1289,Hardwick,United Kingdom
+1290,Hardwicke,United Kingdom
+1291,Hare Hatch,United Kingdom
+1292,Harefield,United Kingdom
+1293,Haringey,United Kingdom
+1294,Harlesden,United Kingdom
+1295,Harleston,United Kingdom
+1296,Harlow,United Kingdom
+1297,Harold Hill,United Kingdom
+1298,Harold Wood,United Kingdom
+1299,Harpenden,United Kingdom
+1300,Harpur Hill,United Kingdom
+1301,Harrogate,United Kingdom
+1302,Harrow,United Kingdom
+1303,Harrow On The Hill,United Kingdom
+1304,Hartford,United Kingdom
+1305,Hartlebury,United Kingdom
+1306,Hartlepool,United Kingdom
+1307,Harwell,United Kingdom
+1308,Harwell Oxford,United Kingdom
+1309,Harwich,United Kingdom
+1310,Harworth,United Kingdom
+1311,Haslemere,United Kingdom
+1312,Haslingden,United Kingdom
+1313,Hassocks,United Kingdom
+1314,Hastings,United Kingdom
+1315,Hatfield,United Kingdom
+1316,Havant,United Kingdom
+1317,Haverfordwest,United Kingdom
+1318,Haverhill,United Kingdom
+1319,Havering,United Kingdom
+1320,Havering-Atte-Bower,United Kingdom
+1321,Hawick,United Kingdom
+1322,Hawkfield Business Park,United Kingdom
+1323,Haydock,United Kingdom
+1324,Hayes,United Kingdom
+1325,Hayling Island,United Kingdom
+1326,Haywards Heath,United Kingdom
+1327,Hazel Grove,United Kingdom
+1328,Hazlemere,United Kingdom
+1329,Heacham,United Kingdom
+1330,Headington,United Kingdom
+1331,Headley,United Kingdom
+1332,Heanor,United Kingdom
+1333,Heartlands Business Park,United Kingdom
+1334,Heath,United Kingdom
+1335,Heath Hayes,United Kingdom
+1336,Heathcote,United Kingdom
+1337,Heather,United Kingdom
+1338,Heathfield,United Kingdom
+1339,Heathfield Industrial Estate,United Kingdom
+1340,Heathrow,United Kingdom
+1341,Heaton Park,United Kingdom
+1342,Hebburn,United Kingdom
+1343,Hebden Bridge,United Kingdom
+1344,Heckmondwike,United Kingdom
+1345,Heddon-on-the-Wall,United Kingdom
+1346,Hedge End,United Kingdom
+1347,Helensburgh,United Kingdom
+1348,Hellaby,United Kingdom
+1349,Helmsley,United Kingdom
+1350,Helsington,United Kingdom
+1351,Helston,United Kingdom
+1352,Hemel Hempstead,United Kingdom
+1353,Hemel Hempstead Industrial Estate,United Kingdom
+1354,Hemsworth,United Kingdom
+1355,Hendon,United Kingdom
+1356,Henfield,United Kingdom
+1357,Hengoed,United Kingdom
+1358,Henley,United Kingdom
+1359,Henley-In-Arden,United Kingdom
+1360,Henley-in-Arden,United Kingdom
+1361,Henley-on-Thames,United Kingdom
+1362,Henlow,United Kingdom
+1363,Hereford,United Kingdom
+1364,Herefordshire,United Kingdom
+1365,Hermitage,United Kingdom
+1366,Herne Bay,United Kingdom
+1367,Herne Hill,United Kingdom
+1368,Hersden,United Kingdom
+1369,Hersham,United Kingdom
+1370,Hertford,United Kingdom
+1371,Hertfordshire,United Kingdom
+1372,Hertsmere,United Kingdom
+1373,Hessle,United Kingdom
+1374,Heston,United Kingdom
+1375,Hethersett,United Kingdom
+1376,Hexham,United Kingdom
+1377,Hextable,United Kingdom
+1378,Heysham,United Kingdom
+1379,Heyshott,United Kingdom
+1380,Heywood,United Kingdom
+1381,Heywood Distribution Park,United Kingdom
+1382,High Birstwith,United Kingdom
+1383,High Holborn,United Kingdom
+1384,High Peak,United Kingdom
+1385,High Spen,United Kingdom
+1386,High Wycombe,United Kingdom
+1387,Highbridge,United Kingdom
+1388,Highlands,United Kingdom
+1389,Highwoods,United Kingdom
+1390,Highworth,United Kingdom
+1391,Hildenborough,United Kingdom
+1392,Hilderstone,United Kingdom
+1393,Hillingdon,United Kingdom
+1394,Hillsborough,United Kingdom
+1395,Hinchley Wood,United Kingdom
+1396,Hinckley,United Kingdom
+1397,Hinckley and Bosworth,United Kingdom
+1398,Hindhead,United Kingdom
+1399,Hindley Green,United Kingdom
+1400,Hingham,United Kingdom
+1401,Hinton Ampner,United Kingdom
+1402,Hirwaun,United Kingdom
+1403,Histon,United Kingdom
+1404,Hitchin,United Kingdom
+1405,Hixon,United Kingdom
+1406,Hockley,United Kingdom
+1407,Hoddesdon,United Kingdom
+1408,Holbeck,United Kingdom
+1409,Holborn,United Kingdom
+1410,Holland Park,United Kingdom
+1411,Holland-on-Sea,United Kingdom
+1412,Holloway,United Kingdom
+1413,Holmfirth,United Kingdom
+1414,Holsworthy,United Kingdom
+1415,Holt,United Kingdom
+1416,Holyport,United Kingdom
+1417,Holytown,United Kingdom
+1418,Holywell,United Kingdom
+1419,Holywood,United Kingdom
+1420,Homerton,United Kingdom
+1421,Hong Kong,United Kingdom
+1422,Honiley,United Kingdom
+1423,Honiton,United Kingdom
+1424,Hoo,United Kingdom
+1425,Hook,United Kingdom
+1426,Hope Valley,United Kingdom
+1427,Hopehouse,United Kingdom
+1428,Horbury,United Kingdom
+1429,Hordley,United Kingdom
+1430,Horley,United Kingdom
+1431,Horncastle,United Kingdom
+1432,Hornchurch,United Kingdom
+1433,Hornsey,United Kingdom
+1434,Horsforth,United Kingdom
+1435,Horsham,United Kingdom
+1436,Horsley,United Kingdom
+1437,Horspath,United Kingdom
+1438,Horwich,United Kingdom
+1439,Houghton,United Kingdom
+1440,Houghton Le Spring,United Kingdom
+1441,Houghton Regis,United Kingdom
+1442,Houndsditch,United Kingdom
+1443,Hounslow,United Kingdom
+1444,Hove,United Kingdom
+1445,Howden,United Kingdom
+1446,Hoxton,United Kingdom
+1447,Hoyland,United Kingdom
+1448,Hucknall,United Kingdom
+1449,Huddersfield,United Kingdom
+1450,Hull,United Kingdom
+1451,Humberstone,United Kingdom
+1452,Hungerford,United Kingdom
+1453,Hunslet,United Kingdom
+1454,Hunstanton,United Kingdom
+1455,Huntingdon,United Kingdom
+1456,Huntington,United Kingdom
+1457,Huntly,United Kingdom
+1458,Hurley,United Kingdom
+1459,Hursley,United Kingdom
+1460,Hurstpierpoint,United Kingdom
+1461,Huthwaite,United Kingdom
+1462,Hutton,United Kingdom
+1463,Hutton Cranswick,United Kingdom
+1464,Hyde,United Kingdom
+1465,Hythe,United Kingdom
+1466,Ibstock,United Kingdom
+1467,Ifield,United Kingdom
+1468,Ilford,United Kingdom
+1469,Ilfracombe,United Kingdom
+1470,Ilkeston,United Kingdom
+1471,Ilkley,United Kingdom
+1472,Ilminster,United Kingdom
+1473,Immingham,United Kingdom
+1474,Immingham Dock,United Kingdom
+1475,Inchinnan,United Kingdom
+1476,Ingatestone,United Kingdom
+1477,Ingleby Barwick,United Kingdom
+1478,Ingol,United Kingdom
+1479,Ingoldisthorpe,United Kingdom
+1480,Ingrave,United Kingdom
+1481,Innsworth,United Kingdom
+1482,Inskip,United Kingdom
+1483,Invergordon,United Kingdom
+1484,Inverness,United Kingdom
+1485,Inverness-shire,United Kingdom
+1486,Inverurie,United Kingdom
+1487,Ipplepen,United Kingdom
+1488,Ipsden,United Kingdom
+1489,Ipswich,United Kingdom
+1490,Irlam,United Kingdom
+1491,Irvine,United Kingdom
+1492,Isfield,United Kingdom
+1493,Isle of Arran,United Kingdom
+1494,Isle of Man,United Kingdom
+1495,Isle of Skye,United Kingdom
+1496,Isle of Wight,United Kingdom
+1497,Isleworth,United Kingdom
+1498,Islington,United Kingdom
+1499,Iver,United Kingdom
+1500,Ivybridge,United Kingdom
+1501,Jarrow,United Kingdom
+1502,Jersey,United Kingdom
+1503,Jesmond,United Kingdom
+1504,Johnstone,United Kingdom
+1505,Kegworth,United Kingdom
+1506,Keighley,United Kingdom
+1507,Keith,United Kingdom
+1508,Kelbrook,United Kingdom
+1509,Kelso,United Kingdom
+1510,Kelvedon Common,United Kingdom
+1511,Kempston,United Kingdom
+1512,Kempston Hardwick,United Kingdom
+1513,Kendal,United Kingdom
+1514,Kenilworth,United Kingdom
+1515,Kenley,United Kingdom
+1516,Kenn,United Kingdom
+1517,Kennington,United Kingdom
+1518,Kensington,United Kingdom
+1519,Kent,United Kingdom
+1520,Kent International Airport,United Kingdom
+1521,Kentish Town,United Kingdom
+1522,Kenton,United Kingdom
+1523,Kersey,United Kingdom
+1524,Kesgrave,United Kingdom
+1525,Keswick,United Kingdom
+1526,Kettering,United Kingdom
+1527,Kettering Business Park,United Kingdom
+1528,Kettering Venture Park,United Kingdom
+1529,Ketteringham,United Kingdom
+1530,Kew,United Kingdom
+1531,Keynsham,United Kingdom
+1532,Kidderminster,United Kingdom
+1533,Kidlington,United Kingdom
+1534,Kilburn,United Kingdom
+1535,Kilcreggan,United Kingdom
+1536,Killingworth,United Kingdom
+1537,Kilmarnock,United Kingdom
+1538,Kiln Farm,United Kingdom
+1539,Kincardine,United Kingdom
+1540,King's Lynn,United Kingdom
+1541,Kingmoor Business Park,United Kingdom
+1542,Kings Cross,United Kingdom
+1543,Kings Heath,United Kingdom
+1544,Kings Hill,United Kingdom
+1545,Kings Langley,United Kingdom
+1546,Kings Norton,United Kingdom
+1547,Kingsbridge,United Kingdom
+1548,Kingsbury,United Kingdom
+1549,Kingsclere,United Kingdom
+1550,Kingsditch Trading Estate,United Kingdom
+1551,Kingsdown,United Kingdom
+1552,Kingsham,United Kingdom
+1553,Kingsnorth,United Kingdom
+1554,Kingston,United Kingdom
+1555,Kingston Bagpuize,United Kingdom
+1556,Kingston Upon Thames,United Kingdom
+1557,Kingstown Industrial Estate,United Kingdom
+1558,Kingswear,United Kingdom
+1559,Kingswinford,United Kingdom
+1560,Kingswood,United Kingdom
+1561,Kingswood Retail Park,United Kingdom
+1562,Kington,United Kingdom
+1563,Kinver,United Kingdom
+1564,Kirby Muxloe,United Kingdom
+1565,Kirby-le-Soken,United Kingdom
+1566,Kirk Sandall Industrial Estate,United Kingdom
+1567,Kirkby,United Kingdom
+1568,Kirkby Lonsdale,United Kingdom
+1569,Kirkby Stephen,United Kingdom
+1570,Kirkcaldy,United Kingdom
+1571,Kirkcudbright,United Kingdom
+1572,Kirkham,United Kingdom
+1573,Kirkintilloch,United Kingdom
+1574,Kirkstall,United Kingdom
+1575,Kirkwall,United Kingdom
+1576,Knaphill,United Kingdom
+1577,Knaresborough,United Kingdom
+1578,Knayton,United Kingdom
+1579,Knebworth,United Kingdom
+1580,Knightsbridge,United Kingdom
+1581,Knottingley,United Kingdom
+1582,Knowle,United Kingdom
+1583,Knowlhill,United Kingdom
+1584,Knowsley,United Kingdom
+1585,Knowsley Industrial Park,United Kingdom
+1586,Knutsford,United Kingdom
+1587,Kuala Lumpar,United Kingdom
+1588,Lace Market,United Kingdom
+1589,Ladbroke Grove,United Kingdom
+1590,Laindon,United Kingdom
+1591,Lakeside,United Kingdom
+1592,Lambeth,United Kingdom
+1593,Lampeter,United Kingdom
+1594,Lanark,United Kingdom
+1595,Lanarkshire,United Kingdom
+1596,Lancashire,United Kingdom
+1597,Lancaster,United Kingdom
+1598,Lancing,United Kingdom
+1599,Lancing Business Park,United Kingdom
+1600,Lane,United Kingdom
+1601,Lane End,United Kingdom
+1602,Langley,United Kingdom
+1603,Langport,United Kingdom
+1604,Langstone,United Kingdom
+1605,Langton,United Kingdom
+1606,Lanhydrock,United Kingdom
+1607,Lansdown,United Kingdom
+1608,Larbert,United Kingdom
+1609,Larkfield,United Kingdom
+1610,Larkhall,United Kingdom
+1611,Larne,United Kingdom
+1612,Latchingdon,United Kingdom
+1613,Lathom,United Kingdom
+1614,Laughton,United Kingdom
+1615,Launceston,United Kingdom
+1616,Laverstoke,United Kingdom
+1617,Layham,United Kingdom
+1618,Leamington Spa,United Kingdom
+1619,Leatherhead,United Kingdom
+1620,Leavenheath,United Kingdom
+1621,Leavesden,United Kingdom
+1622,Lechlade,United Kingdom
+1623,Leckhampton,United Kingdom
+1624,Ledbury,United Kingdom
+1625,Lee-on-the-Solent,United Kingdom
+1626,Leeds,United Kingdom
+1627,Leeds Bradford Airport,United Kingdom
+1628,Leedstown,United Kingdom
+1629,Leek,United Kingdom
+1630,Leeming,United Kingdom
+1631,Leeming Bar Industrial Estate,United Kingdom
+1632,Leicester,United Kingdom
+1633,Leicester Forest East,United Kingdom
+1634,Leicestershire,United Kingdom
+1635,Leigh,United Kingdom
+1636,Leighton Buzzard,United Kingdom
+1637,Leiston,United Kingdom
+1638,Leith,United Kingdom
+1639,Lenham,United Kingdom
+1640,Lenton Lane Industrial Estate,United Kingdom
+1641,Leominster,United Kingdom
+1642,Lerwick,United Kingdom
+1643,Letchworth Garden City,United Kingdom
+1644,Leven,United Kingdom
+1645,Lewes,United Kingdom
+1646,Lewisham,United Kingdom
+1647,Leybourne,United Kingdom
+1648,Leyhill,United Kingdom
+1649,Leyland,United Kingdom
+1650,Leyton,United Kingdom
+1651,Leytonstone,United Kingdom
+1652,Lichfield,United Kingdom
+1653,Lightwater,United Kingdom
+1654,Lincoln,United Kingdom
+1655,Lincolnshire,United Kingdom
+1656,Linford,United Kingdom
+1657,Linford Wood,United Kingdom
+1658,Lingfield,United Kingdom
+1659,Linlithgow,United Kingdom
+1660,Linthwaite,United Kingdom
+1661,Linton,United Kingdom
+1662,Liphook,United Kingdom
+1663,Lisburn,United Kingdom
+1664,Liskeard,United Kingdom
+1665,Liss,United Kingdom
+1666,Little Barford,United Kingdom
+1667,Little Bookham,United Kingdom
+1668,Little Hampton,United Kingdom
+1669,Little Hulton,United Kingdom
+1670,Littlehampton,United Kingdom
+1671,Littlewick Green,United Kingdom
+1672,Liverpool,United Kingdom
+1673,Livingston,United Kingdom
+1674,Llandow,United Kingdom
+1675,Llandrindod Wells,United Kingdom
+1676,Llandudno,United Kingdom
+1677,Llandudno Junction,United Kingdom
+1678,Llandysul,United Kingdom
+1679,Llanelli,United Kingdom
+1680,Llangefni,United Kingdom
+1681,Llangollen,United Kingdom
+1682,Llangower,United Kingdom
+1683,Llanishen,United Kingdom
+1684,Llantarnam,United Kingdom
+1685,Llantarnam Industrial Park,United Kingdom
+1686,Loanhead,United Kingdom
+1687,Lochgelly,United Kingdom
+1688,Lochgilphead,United Kingdom
+1689,Lochmaben,United Kingdom
+1690,Lockerbie,United Kingdom
+1691,Lockington,United Kingdom
+1692,Loddon,United Kingdom
+1693,Lode,United Kingdom
+1694,Lodge Farm Industrial Estate,United Kingdom
+1695,Lombard,United Kingdom
+1696,London,United Kingdom
+1697,London Apprentice,United Kingdom
+1698,London Colney,United Kingdom
+1699,London Gatwick Airport,United Kingdom
+1700,London Heathrow Airport,United Kingdom
+1701,London Luton Airport,United Kingdom
+1702,London Stansted Airport,United Kingdom
+1703,Long Crendon,United Kingdom
+1704,Long Eaton,United Kingdom
+1705,Long Hanborough,United Kingdom
+1706,Long Stratton,United Kingdom
+1707,Long Sutton,United Kingdom
+1708,Longbenton,United Kingdom
+1709,Longbridge,United Kingdom
+1710,Longcross,United Kingdom
+1711,Longfield,United Kingdom
+1712,Longthorns,United Kingdom
+1713,Longton,United Kingdom
+1714,Loose,United Kingdom
+1715,Lopenhead,United Kingdom
+1716,Lostock,United Kingdom
+1717,Lostwithiel,United Kingdom
+1718,Loudwater,United Kingdom
+1719,Loughborough,United Kingdom
+1720,Loughton,United Kingdom
+1721,Louth,United Kingdom
+1722,Low Marnham,United Kingdom
+1723,Lower Beeding,United Kingdom
+1724,Lower Brailes,United Kingdom
+1725,Lower Kingswood,United Kingdom
+1726,Lower Peover,United Kingdom
+1727,Lower Stretton,United Kingdom
+1728,Lower Withington,United Kingdom
+1729,Lower Wortley,United Kingdom
+1730,Lowestoft,United Kingdom
+1731,Lowfield Heath,United Kingdom
+1732,Ludlow,United Kingdom
+1733,Lufton Trading Estate,United Kingdom
+1734,Lupton,United Kingdom
+1735,Luton,United Kingdom
+1736,Lutterworth,United Kingdom
+1737,Lydney,United Kingdom
+1738,Lymedale Business Park,United Kingdom
+1739,Lymington,United Kingdom
+1740,Lymm,United Kingdom
+1741,Lympne,United Kingdom
+1742,Lynch Wood,United Kingdom
+1743,Lyndhurst,United Kingdom
+1744,Lytham,United Kingdom
+1745,Lytham St. Annes,United Kingdom
+1746,Mablethorpe,United Kingdom
+1747,Macclesfield,United Kingdom
+1748,Maenporth,United Kingdom
+1749,Magherafelt,United Kingdom
+1750,Maghull,United Kingdom
+1751,Magna Park,United Kingdom
+1752,Maida Vale,United Kingdom
+1753,Maiden Bradley,United Kingdom
+1754,Maidenhead,United Kingdom
+1755,Maidstone,United Kingdom
+1756,Maisemore,United Kingdom
+1757,Maldon,United Kingdom
+1758,Mallaig,United Kingdom
+1759,Malmesbury,United Kingdom
+1760,Malta,United Kingdom
+1761,Maltby,United Kingdom
+1762,Malton,United Kingdom
+1763,Malvern,United Kingdom
+1764,Manchester,United Kingdom
+1765,Manchester Airport,United Kingdom
+1766,Manchester Industrial Centre,United Kingdom
+1767,Manningtree,United Kingdom
+1768,Mansfield,United Kingdom
+1769,Manvers,United Kingdom
+1770,Maple Cross,United Kingdom
+1771,Marble Arch,United Kingdom
+1772,March,United Kingdom
+1773,Marchwood,United Kingdom
+1774,Margate,United Kingdom
+1775,Market Deeping,United Kingdom
+1776,Market Drayton,United Kingdom
+1777,Market Harborough,United Kingdom
+1778,Market Rasen,United Kingdom
+1779,Markinch,United Kingdom
+1780,Marlborough,United Kingdom
+1781,Marlow,United Kingdom
+1782,Marlston-cum-Lache,United Kingdom
+1783,Marple,United Kingdom
+1784,MarsaMaltaMaltaMalta,United Kingdom
+1785,Marsh Barton Trading Estate,United Kingdom
+1786,Marsh Mills,United Kingdom
+1787,Marske-by-the-Sea,United Kingdom
+1788,Marston Magna,United Kingdom
+1789,Martlesham,United Kingdom
+1790,Martock,United Kingdom
+1791,Marylebone,United Kingdom
+1792,Maryport,United Kingdom
+1793,Masham,United Kingdom
+1794,Mastin Moor,United Kingdom
+1795,Mathern,United Kingdom
+1796,Matlock,United Kingdom
+1797,Matson,United Kingdom
+1798,Maulden,United Kingdom
+1799,Mayfair,United Kingdom
+1800,Measham,United Kingdom
+1801,Medway City Estate,United Kingdom
+1802,Melbourn,United Kingdom
+1803,Melbourne,United Kingdom
+1804,Melksham,United Kingdom
+1805,Melrose,United Kingdom
+1806,Meltham,United Kingdom
+1807,Melton,United Kingdom
+1808,Melton Constable,United Kingdom
+1809,Melton Mowbray,United Kingdom
+1810,Mendlesham,United Kingdom
+1811,Meols,United Kingdom
+1812,Meopham,United Kingdom
+1813,Meriden,United Kingdom
+1814,Meridian Business Park,United Kingdom
+1815,Merseyside,United Kingdom
+1816,Mersham,United Kingdom
+1817,Merthyr,United Kingdom
+1818,Merthyr Tydfil,United Kingdom
+1819,Merton,United Kingdom
+1820,Metro Centre,United Kingdom
+1821,Metro Riverside Park,United Kingdom
+1822,Mexborough,United Kingdom
+1823,Micheldever,United Kingdom
+1824,Mickleham,United Kingdom
+1825,Mid Glamorgan,United Kingdom
+1826,Mid Sussex,United Kingdom
+1827,Middleleaze,United Kingdom
+1828,Middlesbrough,United Kingdom
+1829,Middlesex,United Kingdom
+1830,Middleton,United Kingdom
+1831,Middlewich,United Kingdom
+1832,Midhurst,United Kingdom
+1833,Midlothian,United Kingdom
+1834,Midsomer Norton,United Kingdom
+1835,Mildenhall,United Kingdom
+1836,Milford Haven,United Kingdom
+1837,Mill Farm Sports VillageWesham,United Kingdom
+1838,Mill Hill,United Kingdom
+1839,Milnthorpe,United Kingdom
+1840,Milton,United Kingdom
+1841,Milton Common,United Kingdom
+1842,Milton Keynes,United Kingdom
+1843,Milton Keynes Industrial Centre,United Kingdom
+1844,Milton Park,United Kingdom
+1845,Milton Park Industrial Estate,United Kingdom
+1846,Minehead,United Kingdom
+1847,Minster on Sea,United Kingdom
+1848,Minworth,United Kingdom
+1849,Minworth Industrial Park,United Kingdom
+1850,Mirfield,United Kingdom
+1851,Mitcham,United Kingdom
+1852,Mitchelston Industrial Estate,United Kingdom
+1853,Mobberley,United Kingdom
+1854,Moffat,United Kingdom
+1855,Moggerhanger,United Kingdom
+1856,Mold,United Kingdom
+1857,Monkton Village,United Kingdom
+1858,Monmouth,United Kingdom
+1859,Monrovia,United Kingdom
+1860,Montgomery,United Kingdom
+1861,Moons Moat North Industrial Estate,United Kingdom
+1862,Moorgate,United Kingdom
+1863,Morden,United Kingdom
+1864,Morecambe,United Kingdom
+1865,Moreton-In-Marsh,United Kingdom
+1866,Moreton-in-Marsh,United Kingdom
+1867,Morley,United Kingdom
+1868,Morpeth,United Kingdom
+1869,Moscow,United Kingdom
+1870,Moseley,United Kingdom
+1871,Motherwell,United Kingdom
+1872,Mottingham,United Kingdom
+1873,Mottram St. Andrew,United Kingdom
+1874,Moulton Park Industrial Estate,United Kingdom
+1875,Mountnessing,United Kingdom
+1876,Mountsorrel,United Kingdom
+1877,Much Hadham,United Kingdom
+1878,Mullacott Cross Industrial Estate,United Kingdom
+1879,Musselburgh,United Kingdom
+1880,Mutley,United Kingdom
+1881,Mytholmroyd,United Kingdom
+1882,Nailsea,United Kingdom
+1883,Nairn,United Kingdom
+1884,Nantgarw,United Kingdom
+1885,Nantwich,United Kingdom
+1886,Narberth,United Kingdom
+1887,Narborough,United Kingdom
+1888,Neasden,United Kingdom
+1889,Neath,United Kingdom
+1890,Neath Abbey,United Kingdom
+1891,Nechells,United Kingdom
+1892,Needham Market,United Kingdom
+1893,Nelson,United Kingdom
+1894,Nerston Industrial Estate,United Kingdom
+1895,Neston,United Kingdom
+1896,Nether Alderley,United Kingdom
+1897,Netherton,United Kingdom
+1898,Nettlebed,United Kingdom
+1899,New Addington,United Kingdom
+1900,New Barnet,United Kingdom
+1901,New Cross,United Kingdom
+1902,New Leeds,United Kingdom
+1903,New Malden,United Kingdom
+1904,New Mills,United Kingdom
+1905,New Milton,United Kingdom
+1906,New Romney,United Kingdom
+1907,New Shoreham,United Kingdom
+1908,New Southgate,United Kingdom
+1909,Newark,United Kingdom
+1910,Newbridge,United Kingdom
+1911,Newbury,United Kingdom
+1912,Newby Bridge,United Kingdom
+1913,Newcastle,United Kingdom
+1914,Newcastle Business Park,United Kingdom
+1915,Newcastle International Airport,United Kingdom
+1916,Newcastle Upon Tyne,United Kingdom
+1917,Newcastle-Under-Lyme,United Kingdom
+1918,Newcastle-under-Lyme,United Kingdom
+1919,Newdigate,United Kingdom
+1920,Newent,United Kingdom
+1921,Newfound Pool,United Kingdom
+1922,Newgate Street,United Kingdom
+1923,Newhall,United Kingdom
+1924,Newhaven,United Kingdom
+1925,Newick,United Kingdom
+1926,Newlands,United Kingdom
+1927,Newmarket,United Kingdom
+1928,Newport,United Kingdom
+1929,Newquay,United Kingdom
+1930,Newry,United Kingdom
+1931,Newton Abbot,United Kingdom
+1932,Newton Abbott,United Kingdom
+1933,Newton Aycliffe,United Kingdom
+1934,Newton-le-Willows,United Kingdom
+1935,Newtonmore,United Kingdom
+1936,Newtown,United Kingdom
+1937,Newtownabbey,United Kingdom
+1938,Newtownards,United Kingdom
+1939,Nine Elms,United Kingdom
+1940,Non UK,United Kingdom
+1941,Norcott Brook,United Kingdom
+1942,Norfolk,United Kingdom
+1943,Normanton,United Kingdom
+1944,Normanton Industrial Estate,United Kingdom
+1945,North Berwick,United Kingdom
+1946,North Bradley,United Kingdom
+1947,North Brewham,United Kingdom
+1948,North Carbrain,United Kingdom
+1949,North Carr,United Kingdom
+1950,North East England,United Kingdom
+1951,North End,United Kingdom
+1952,North Finchley,United Kingdom
+1953,North Humberside,United Kingdom
+1954,North Hykeham,United Kingdom
+1955,North Kensington,United Kingdom
+1956,North Killingholme,United Kingdom
+1957,North London,United Kingdom
+1958,North Shields,United Kingdom
+1959,North Tawton,United Kingdom
+1960,North Walsham,United Kingdom
+1961,North Watford,United Kingdom
+1962,North Weald,United Kingdom
+1963,North West England,United Kingdom
+1964,North West Industrial Estate,United Kingdom
+1965,North West London,United Kingdom
+1966,North Yorkshire,United Kingdom
+1967,Northallerton,United Kingdom
+1968,Northampton,United Kingdom
+1969,Northampton Business Park,United Kingdom
+1970,Northamptonshire,United Kingdom
+1971,Northfield,United Kingdom
+1972,Northfields Industrial Estate,United Kingdom
+1973,Northington Down,United Kingdom
+1974,Northolt,United Kingdom
+1975,Northumberland,United Kingdom
+1976,Northwich,United Kingdom
+1977,Northwood,United Kingdom
+1978,Norton,United Kingdom
+1979,Norwich,United Kingdom
+1980,Norwood,United Kingdom
+1981,Notting Hill,United Kingdom
+1982,Nottingham,United Kingdom
+1983,Nottinghamshire,United Kingdom
+1984,Nuneaton,United Kingdom
+1985,Nursling,United Kingdom
+1986,Nutbourne,United Kingdom
+1987,Nutfield,United Kingdom
+1988,Oadby,United Kingdom
+1989,Oakham,United Kingdom
+1990,Oakhill,United Kingdom
+1991,Oban,United Kingdom
+1992,Occold,United Kingdom
+1993,Ockham,United Kingdom
+1994,Offchurch,United Kingdom
+1995,Okehampton,United Kingdom
+1996,Old Basford,United Kingdom
+1997,Old Basing,United Kingdom
+1998,Old Colwyn,United Kingdom
+1999,Old Dalby,United Kingdom
+2000,Old Hall,United Kingdom
+2001,Old Sarum,United Kingdom
+2002,Old Springs,United Kingdom
+2003,Old Trafford,United Kingdom
+2004,Old Windsor,United Kingdom
+2005,Old Wolverton,United Kingdom
+2006,Oldbury,United Kingdom
+2007,Oldham,United Kingdom
+2008,Olney,United Kingdom
+2009,Olympic Park,United Kingdom
+2010,Omagh,United Kingdom
+2011,Ongar,United Kingdom
+2012,Ormskirk,United Kingdom
+2013,Orpington,United Kingdom
+2014,Orton,United Kingdom
+2015,Orton Southgate,United Kingdom
+2016,Ossett,United Kingdom
+2017,Oswestry,United Kingdom
+2018,Other,United Kingdom
+2019,Otley,United Kingdom
+2020,Oundle,United Kingdom
+2021,Over,United Kingdom
+2022,Overton,United Kingdom
+2023,Oxford,United Kingdom
+2024,Oxford Airport,United Kingdom
+2025,Oxford Business Park South,United Kingdom
+2026,Oxfordshire,United Kingdom
+2027,Oxted,United Kingdom
+2028,PRAHA - ZÃPAD,United Kingdom
+2029,Packington,United Kingdom
+2030,Paddington,United Kingdom
+2031,Paddock Wood,United Kingdom
+2032,Padiham,United Kingdom
+2033,Padstow,United Kingdom
+2034,Paignton,United Kingdom
+2035,Painswick,United Kingdom
+2036,Paisley,United Kingdom
+2037,Palgrave,United Kingdom
+2038,Pangbourne,United Kingdom
+2039,Papworth Everard,United Kingdom
+2040,Par,United Kingdom
+2041,Park Farm Industrial Estate,United Kingdom
+2042,Park Gate,United Kingdom
+2043,Park Royal,United Kingdom
+2044,Park View Industrial Estate,United Kingdom
+2045,Parkgate,United Kingdom
+2046,Parkhouse Industrial Estate East,United Kingdom
+2047,Patchway,United Kingdom
+2048,Peacehaven,United Kingdom
+2049,Pease Pottage,United Kingdom
+2050,Peckham,United Kingdom
+2051,Pembury,United Kingdom
+2052,Penarth,United Kingdom
+2053,Pencoed,United Kingdom
+2054,Penge,United Kingdom
+2055,Penistone,United Kingdom
+2056,Penrith,United Kingdom
+2057,Pentre Maelor,United Kingdom
+2058,Penzance,United Kingdom
+2059,Peper Harow,United Kingdom
+2060,Perivale,United Kingdom
+2061,Perry,United Kingdom
+2062,Perry Barr,United Kingdom
+2063,Pershore,United Kingdom
+2064,Perth,United Kingdom
+2065,Peterborough,United Kingdom
+2066,Peterhead,United Kingdom
+2067,Peterlee,United Kingdom
+2068,Petersfield,United Kingdom
+2069,Petworth,United Kingdom
+2070,Pevensey Bay,United Kingdom
+2071,Phocle Green,United Kingdom
+2072,Piccadilly,United Kingdom
+2073,Pickering,United Kingdom
+2074,Pickmere,United Kingdom
+2075,Pilgrims Hatch,United Kingdom
+2076,Pill,United Kingdom
+2077,Pimlico,United Kingdom
+2078,Pinchbeck,United Kingdom
+2079,Pineham,United Kingdom
+2080,Pinner,United Kingdom
+2081,Pinxton,United Kingdom
+2082,Pitlochry,United Kingdom
+2083,Pitsea,United Kingdom
+2084,Pitstone,United Kingdom
+2085,Plumley,United Kingdom
+2086,Plumpton,United Kingdom
+2087,Plumstead,United Kingdom
+2088,Plymouth,United Kingdom
+2089,Plymouth Airport,United Kingdom
+2090,Plympton,United Kingdom
+2091,Plymstock,United Kingdom
+2092,Polmont,United Kingdom
+2093,Pontardawe,United Kingdom
+2094,Pontefract,United Kingdom
+2095,Pontypool,United Kingdom
+2096,Pontypridd,United Kingdom
+2097,Poole,United Kingdom
+2098,Port Solent,United Kingdom
+2099,Port Sunlight,United Kingdom
+2100,Port Talbot,United Kingdom
+2101,Portadown,United Kingdom
+2102,Portbury,United Kingdom
+2103,Porth,United Kingdom
+2104,Porthmadog,United Kingdom
+2105,Portinscale,United Kingdom
+2106,Portishead,United Kingdom
+2107,Portland,United Kingdom
+2108,Portlethen,United Kingdom
+2109,Porton Down,United Kingdom
+2110,Portree,United Kingdom
+2111,Portrush,United Kingdom
+2112,Portslade,United Kingdom
+2113,Portslade-by-Sea,United Kingdom
+2114,Portsmouth,United Kingdom
+2115,Potters Bar,United Kingdom
+2116,Poulton-le-Fylde,United Kingdom
+2117,Powys,United Kingdom
+2118,Poynings,United Kingdom
+2119,Poynton,United Kingdom
+2120,Prague,United Kingdom
+2121,Prees,United Kingdom
+2122,Premier Business Park,United Kingdom
+2123,Prenton,United Kingdom
+2124,Prescot,United Kingdom
+2125,Prestatyn,United Kingdom
+2126,Prestbury,United Kingdom
+2127,Preston,United Kingdom
+2128,Preston Brook,United Kingdom
+2129,Preston Farm Business Park,United Kingdom
+2130,Preston Park,United Kingdom
+2131,Prestwich,United Kingdom
+2132,Prestwick,United Kingdom
+2133,Pride Park,United Kingdom
+2134,Princes Risborough,United Kingdom
+2135,Prudhoe,United Kingdom
+2136,Pudsey,United Kingdom
+2137,Pulborough,United Kingdom
+2138,Pulford,United Kingdom
+2139,Pulham St. Mary,United Kingdom
+2140,Purfleet,United Kingdom
+2141,Purley,United Kingdom
+2142,Putney,United Kingdom
+2143,Pwllheli,United Kingdom
+2144,Pyle,United Kingdom
+2145,Quainton,United Kingdom
+2146,Quedgeley,United Kingdom
+2147,Queens Drive Industrial Estate,United Kingdom
+2148,Queensway Meadows Industrial Estate,United Kingdom
+2149,Quinton,United Kingdom
+2150,RAF Coningsby,United Kingdom
+2151,Radcliffe,United Kingdom
+2152,Radlett,United Kingdom
+2153,Radstock,United Kingdom
+2154,Radwell,United Kingdom
+2155,Radyr,United Kingdom
+2156,Raigmore,United Kingdom
+2157,Rainham,United Kingdom
+2158,Rainhill,United Kingdom
+2159,Ramsgate,United Kingdom
+2160,Ransomes Europark,United Kingdom
+2161,Rassau,United Kingdom
+2162,Raunds,United Kingdom
+2163,Ravensworth,United Kingdom
+2164,Rawdon,United Kingdom
+2165,Rayleigh,United Kingdom
+2166,Raynes Park,United Kingdom
+2167,Reading,United Kingdom
+2168,Reading North,United Kingdom
+2169,Reading West,United Kingdom
+2170,Red Lodge,United Kingdom
+2171,Redbridge,United Kingdom
+2172,Redcar,United Kingdom
+2173,Reddish,United Kingdom
+2174,Redditch,United Kingdom
+2175,Redhill,United Kingdom
+2176,Redmoor,United Kingdom
+2177,Rednal,United Kingdom
+2178,Redruth,United Kingdom
+2179,Redruth Highway,United Kingdom
+2180,Reevesland Industrial Estate,United Kingdom
+2181,Reigate,United Kingdom
+2182,Retford,United Kingdom
+2183,Rhondda,United Kingdom
+2184,Rhos on Sea,United Kingdom
+2185,Rhosllanerchrugog,United Kingdom
+2186,Rhyl,United Kingdom
+2187,Rhymney,United Kingdom
+2188,Ribbleton,United Kingdom
+2189,Richmond,United Kingdom
+2190,Richmond Park,United Kingdom
+2191,Richmond Upon Thames,United Kingdom
+2192,Rickmansworth,United Kingdom
+2193,Riddlesden,United Kingdom
+2194,Ridgmont,United Kingdom
+2195,Ringmer,United Kingdom
+2196,Ringway,United Kingdom
+2197,Ringwood,United Kingdom
+2198,Ripley,United Kingdom
+2199,Ripon,United Kingdom
+2200,Riverside Business Park,United Kingdom
+2201,Rocester,United Kingdom
+2202,Rochdale,United Kingdom
+2203,Roche,United Kingdom
+2204,Rochester,United Kingdom
+2205,Rochford,United Kingdom
+2206,Roecliffe,United Kingdom
+2207,Roehampton,United Kingdom
+2208,Romford,United Kingdom
+2209,Romsey,United Kingdom
+2210,Romsley,United Kingdom
+2211,Rosedale Abbey,United Kingdom
+2212,Ross-on-Wye,United Kingdom
+2213,Rossendale,United Kingdom
+2214,Rotherfield Greys,United Kingdom
+2215,Rotherham,United Kingdom
+2216,Rothley,United Kingdom
+2217,Rothwell,United Kingdom
+2218,Round Spinney Industrial Estate,United Kingdom
+2219,Roundthorn Industrial Estate,United Kingdom
+2220,Rowlands Gill,United Kingdom
+2221,Rowley Regis,United Kingdom
+2222,Roxwell,United Kingdom
+2223,Royal British Legion Village,United Kingdom
+2224,Royal Oak Industrial Estate,United Kingdom
+2225,Royston,United Kingdom
+2226,Royton,United Kingdom
+2227,Rubery,United Kingdom
+2228,Ruddington,United Kingdom
+2229,Rudheath,United Kingdom
+2230,Rugby,United Kingdom
+2231,Rugeley,United Kingdom
+2232,Ruislip,United Kingdom
+2233,Rumney,United Kingdom
+2234,Runcorn,United Kingdom
+2235,Runwell,United Kingdom
+2236,Rushden,United Kingdom
+2237,Rustington,United Kingdom
+2238,Rutherglen,United Kingdom
+2239,Rutland,United Kingdom
+2240,Rye,United Kingdom
+2241,Ryton On Dunsmore,United Kingdom
+2242,Ryton on Dunsmore,United Kingdom
+2243,SAN GILJAN,United Kingdom
+2244,SLIEMA,United Kingdom
+2245,Saffron Walden,United Kingdom
+2246,Salcombe,United Kingdom
+2247,Sale,United Kingdom
+2248,Salford,United Kingdom
+2249,Salford Quays,United Kingdom
+2250,Salfords,United Kingdom
+2251,Salisbury,United Kingdom
+2252,Saltash,United Kingdom
+2253,Saltcoats,United Kingdom
+2254,Saltend,United Kingdom
+2255,Saltney,United Kingdom
+2256,Saltney Ferry,United Kingdom
+2257,Samlesbury,United Kingdom
+2258,Sand Hutton,United Kingdom
+2259,Sandbach,United Kingdom
+2260,Sandbanks,United Kingdom
+2261,Sandford-on-Thames,United Kingdom
+2262,Sandhurst,United Kingdom
+2263,Sands Industrial Estate,United Kingdom
+2264,Sandwich,United Kingdom
+2265,Sandy,United Kingdom
+2266,Sapley,United Kingdom
+2267,Sarisbury Green,United Kingdom
+2268,Sawbridgeworth,United Kingdom
+2269,Sawston,United Kingdom
+2270,Sawtry,United Kingdom
+2271,Saxilby,United Kingdom
+2272,Saxmundham,United Kingdom
+2273,Sayers Common,United Kingdom
+2274,Scarborough,United Kingdom
+2275,Scotch Corner,United Kingdom
+2276,Scothern,United Kingdom
+2277,Scunthorpe,United Kingdom
+2278,Seaford,United Kingdom
+2279,Seaham,United Kingdom
+2280,Seahouses,United Kingdom
+2281,Seal Sands,United Kingdom
+2282,Sedgefield,United Kingdom
+2283,Sefton,United Kingdom
+2284,Seifton,United Kingdom
+2285,Selby,United Kingdom
+2286,Selkirk,United Kingdom
+2287,Sellindge,United Kingdom
+2288,Selston,United Kingdom
+2289,Send,United Kingdom
+2290,Sevenoaks,United Kingdom
+2291,Severn Beach,United Kingdom
+2292,Shackleford,United Kingdom
+2293,Shadsworth Business Park,United Kingdom
+2294,Shaftesbury,United Kingdom
+2295,Shalford,United Kingdom
+2296,Shardlow,United Kingdom
+2297,Sharnbrook,United Kingdom
+2298,Sharston,United Kingdom
+2299,Shawbury,United Kingdom
+2300,Sheepscombe,United Kingdom
+2301,Sheerness,United Kingdom
+2302,Sheffield,United Kingdom
+2303,Shefford,United Kingdom
+2304,Sheldon,United Kingdom
+2305,Shenfield,United Kingdom
+2306,Shenley,United Kingdom
+2307,Shenley Wood,United Kingdom
+2308,Shepherds Bush,United Kingdom
+2309,Shepperton,United Kingdom
+2310,Shepshed,United Kingdom
+2311,Shepton Mallet,United Kingdom
+2312,Sherburn In Elmet,United Kingdom
+2313,Sherburn in Elmet,United Kingdom
+2314,Sherfield-On-Loddon,United Kingdom
+2315,Sherington,United Kingdom
+2316,Shibden,United Kingdom
+2317,Shifnal,United Kingdom
+2318,Shildon,United Kingdom
+2319,Shillington,United Kingdom
+2320,Shinfield,United Kingdom
+2321,Shipley,United Kingdom
+2322,Shipston-on-Stour,United Kingdom
+2323,Shipton-under-Wychwood,United Kingdom
+2324,Shirebrook,United Kingdom
+2325,Shirley,United Kingdom
+2326,Shoeburyness,United Kingdom
+2327,Shoreditch,United Kingdom
+2328,Shoreham,United Kingdom
+2329,Shoreham-By-Sea,United Kingdom
+2330,Shoreham-by-Sea,United Kingdom
+2331,Shottle,United Kingdom
+2332,Shotts,United Kingdom
+2333,Shrewsbury,United Kingdom
+2334,Shrivenham,United Kingdom
+2335,Shropham,United Kingdom
+2336,Shropshire,United Kingdom
+2337,Shurdington,United Kingdom
+2338,Shustoke,United Kingdom
+2339,Sidcup,United Kingdom
+2340,Sidmouth,United Kingdom
+2341,Sighthill,United Kingdom
+2342,Sileby,United Kingdom
+2343,Silkwood Park,United Kingdom
+2344,Silsoe,United Kingdom
+2345,Silverstone,United Kingdom
+2346,Simonstone,United Kingdom
+2347,Singapore,United Kingdom
+2348,Sittingbourne,United Kingdom
+2349,Skegness,United Kingdom
+2350,Skelmersdale,United Kingdom
+2351,Skene,United Kingdom
+2352,Skipton,United Kingdom
+2353,Skipton Bridge,United Kingdom
+2354,Skyline 120,United Kingdom
+2355,Sleaford,United Kingdom
+2356,Sliema,United Kingdom
+2357,Slinfold,United Kingdom
+2358,Slough,United Kingdom
+2359,Slyfield Industrial Estate,United Kingdom
+2360,Smethwick,United Kingdom
+2361,Snailwell,United Kingdom
+2362,Snelshall West,United Kingdom
+2363,Snetterton,United Kingdom
+2364,Soho,United Kingdom
+2365,Solihull,United Kingdom
+2366,Somercotes,United Kingdom
+2367,Somerset,United Kingdom
+2368,Somerton,United Kingdom
+2369,Sonning,United Kingdom
+2370,Sough,United Kingdom
+2371,South Beach,United Kingdom
+2372,South Benfleet,United Kingdom
+2373,South Brink,United Kingdom
+2374,South Cerney,United Kingdom
+2375,South Church Enterprise Park,United Kingdom
+2376,South Croydon,United Kingdom
+2377,South Ealing,United Kingdom
+2378,South East England,United Kingdom
+2379,South East London,United Kingdom
+2380,South Elmsall,United Kingdom
+2381,South Humberside,United Kingdom
+2382,South Kensington,United Kingdom
+2383,South Lancing,United Kingdom
+2384,South Lancs Industrial Estate,United Kingdom
+2385,South Lowestoft,United Kingdom
+2386,South Marston,United Kingdom
+2387,South Marston Industrial Estate,United Kingdom
+2388,South Mimms,United Kingdom
+2389,South Molton,United Kingdom
+2390,South Normanton,United Kingdom
+2391,South Norwood,United Kingdom
+2392,South Ockendon,United Kingdom
+2393,South Petherton,United Kingdom
+2394,South Queensferry,United Kingdom
+2395,South Shields,United Kingdom
+2396,South West England,United Kingdom
+2397,South West London,United Kingdom
+2398,South Wigston,United Kingdom
+2399,South Witham,United Kingdom
+2400,South Woodford,United Kingdom
+2401,South Woodham Ferrers,United Kingdom
+2402,South Yorkshire,United Kingdom
+2403,Southall,United Kingdom
+2404,Southam,United Kingdom
+2405,Southampton,United Kingdom
+2406,Southampton International Airport,United Kingdom
+2407,Southampton Science Park,United Kingdom
+2408,Southbourne,United Kingdom
+2409,Southend,United Kingdom
+2410,Southend X,United Kingdom
+2411,Southend-On-Sea,United Kingdom
+2412,Southend-on-Sea,United Kingdom
+2413,Southend-on-Sea X,United Kingdom
+2414,Southfields Business Park,United Kingdom
+2415,Southgate,United Kingdom
+2416,Southminster,United Kingdom
+2417,Southport,United Kingdom
+2418,Southsea,United Kingdom
+2419,Southwark,United Kingdom
+2420,Southwell,United Kingdom
+2421,Southwick,United Kingdom
+2422,Southwold,United Kingdom
+2423,Southwood Business Park,United Kingdom
+2424,Sowerby Bridge,United Kingdom
+2425,Sowton Industrial Estate,United Kingdom
+2426,Spalding,United Kingdom
+2427,Sparkbrook,United Kingdom
+2428,Speke,United Kingdom
+2429,Spelthorne,United Kingdom
+2430,Spennymoor,United Kingdom
+2431,Springfield,United Kingdom
+2432,St julians,United Kingdom
+2433,St. Albans,United Kingdom
+2434,St. Asaph,United Kingdom
+2435,St. Austell,United Kingdom
+2436,St. Columb,United Kingdom
+2437,St. Erth,United Kingdom
+2438,St. Helen Auckland,United Kingdom
+2439,St. Helens,United Kingdom
+2440,St. Ives,United Kingdom
+2441,St. James,United Kingdom
+2442,St. Johns Wood,United Kingdom
+2443,St. Leonards-On-Sea,United Kingdom
+2444,St. Martin,United Kingdom
+2445,St. Mary Bourne,United Kingdom
+2446,St. Marys Bay,United Kingdom
+2447,St. Mawgan,United Kingdom
+2448,St. Mellons,United Kingdom
+2449,St. Neots,United Kingdom
+2450,St. Pancras,United Kingdom
+2451,St. Philips,United Kingdom
+2452,Stafford,United Kingdom
+2453,Staffordshire,United Kingdom
+2454,Staffordshire Technology Park,United Kingdom
+2455,Staines-Upon-Thames,United Kingdom
+2456,Staines-upon-Thames,United Kingdom
+2457,Stallingborough,United Kingdom
+2458,Stalybridge,United Kingdom
+2459,Stamford,United Kingdom
+2460,Stanford-le-Hope,United Kingdom
+2461,Stanley,United Kingdom
+2462,Stanmore,United Kingdom
+2463,Stanstead,United Kingdom
+2464,Stansted,United Kingdom
+2465,Stansted Mountfitchet,United Kingdom
+2466,Stanton,United Kingdom
+2467,Stanton Drew,United Kingdom
+2468,Stanway,United Kingdom
+2469,Stanwell,United Kingdom
+2470,Staples Corner,United Kingdom
+2471,Stareton,United Kingdom
+2472,Staverton,United Kingdom
+2473,Staythorpe,United Kingdom
+2474,Steetley,United Kingdom
+2475,Stenhousemuir,United Kingdom
+2476,Steppingley,United Kingdom
+2477,Stevenage,United Kingdom
+2478,Stewartby,United Kingdom
+2479,Stirling,United Kingdom
+2480,Stockbridge,United Kingdom
+2481,Stockport,United Kingdom
+2482,Stocksbridge,United Kingdom
+2483,Stockton-On-Tees,United Kingdom
+2484,Stockton-on-Tees,United Kingdom
+2485,Stoke,United Kingdom
+2486,Stoke Gifford,United Kingdom
+2487,Stoke Heath,United Kingdom
+2488,Stoke Mandeville,United Kingdom
+2489,Stoke Poges,United Kingdom
+2490,Stoke-On-Trent,United Kingdom
+2491,Stoke-on-Trent,United Kingdom
+2492,Stokenchurch,United Kingdom
+2493,Stokesley,United Kingdom
+2494,Stone,United Kingdom
+2495,Stone Business Park,United Kingdom
+2496,Stonehouse,United Kingdom
+2497,Stoneleigh,United Kingdom
+2498,Stoneleigh Park,United Kingdom
+2499,Stoney Stanton,United Kingdom
+2500,Stony Stratford,United Kingdom
+2501,Stornoway,United Kingdom
+2502,Storrington,United Kingdom
+2503,Stotfold,United Kingdom
+2504,Stourbridge,United Kingdom
+2505,Stourport-On-Severn,United Kingdom
+2506,Stourport-on-Severn,United Kingdom
+2507,Stow On The Wold,United Kingdom
+2508,Stow on the Wold,United Kingdom
+2509,Stowe,United Kingdom
+2510,Stowmarket,United Kingdom
+2511,Stradbroke,United Kingdom
+2512,Stranraer,United Kingdom
+2513,Stratford,United Kingdom
+2514,Stratford Enterprise Park,United Kingdom
+2515,Stratford St. Mary,United Kingdom
+2516,Stratford-Upon-Avon,United Kingdom
+2517,Stratford-upon-Avon,United Kingdom
+2518,Strath,United Kingdom
+2519,Streatham,United Kingdom
+2520,Street,United Kingdom
+2521,Stretford,United Kingdom
+2522,Strixton,United Kingdom
+2523,Strood,United Kingdom
+2524,Stroud,United Kingdom
+2525,Stroudwater Business Park,United Kingdom
+2526,Studley,United Kingdom
+2527,Stukeley Meadows Industrial Estate,United Kingdom
+2528,Sturminster Newton,United Kingdom
+2529,Styal,United Kingdom
+2530,Sudbury,United Kingdom
+2531,Suffolk,United Kingdom
+2532,Summertown,United Kingdom
+2533,Sunbury-on-Thames,United Kingdom
+2534,Sunderland,United Kingdom
+2535,Sunningdale,United Kingdom
+2536,Surbiton,United Kingdom
+2537,Surrey,United Kingdom
+2538,Surrey Research Park,United Kingdom
+2539,Sussex Business Village,United Kingdom
+2540,Sutherland,United Kingdom
+2541,Sutton,United Kingdom
+2542,Sutton Coldfield,United Kingdom
+2543,Sutton-In-Ashfield,United Kingdom
+2544,Sutton-in-Ashfield,United Kingdom
+2545,Sutton-on-Hull,United Kingdom
+2546,Swadlincote,United Kingdom
+2547,Swaffham,United Kingdom
+2548,Swainshill,United Kingdom
+2549,Swallownest,United Kingdom
+2550,Swan Valley,United Kingdom
+2551,Swanage,United Kingdom
+2552,Swanley,United Kingdom
+2553,Swanley Village,United Kingdom
+2554,Swansea,United Kingdom
+2555,Swarcliffe,United Kingdom
+2556,Swardeston,United Kingdom
+2557,Swavesey,United Kingdom
+2558,Sway,United Kingdom
+2559,Swindon,United Kingdom
+2560,Swindon X,United Kingdom
+2561,Swinton,United Kingdom
+2562,Swiss Cottage,United Kingdom
+2563,Sydenham,United Kingdom
+2564,Syston,United Kingdom
+2565,Sywell,United Kingdom
+2566,Cleveland,United Kingdom
+2567,Tachbrook Park,United Kingdom
+2568,Tadcaster,United Kingdom
+2569,Tadley,United Kingdom
+2570,Tadworth,United Kingdom
+2571,Tafarnaubach,United Kingdom
+2572,Takeley,United Kingdom
+2573,Tameside,United Kingdom
+2574,Tamworth,United Kingdom
+2575,Tandridge,United Kingdom
+2576,Tang Hall,United Kingdom
+2577,Tanworth-in-Arden,United Kingdom
+2578,Taplow,United Kingdom
+2579,Tarbert,United Kingdom
+2580,Tarporley,United Kingdom
+2581,Tattenhall,United Kingdom
+2582,Tattershall,United Kingdom
+2583,Taunton,United Kingdom
+2584,Tavistock,United Kingdom
+2585,Tayport,United Kingdom
+2586,Team Valley,United Kingdom
+2587,Team Valley Trading Estate,United Kingdom
+2588,Teddington,United Kingdom
+2589,Teesside,United Kingdom
+2590,Teesside Retail Park,United Kingdom
+2591,Teignmouth,United Kingdom
+2592,Telford,United Kingdom
+2593,Telford Town Centre,United Kingdom
+2594,Telford Way Industrial Estate,United Kingdom
+2595,Temple,United Kingdom
+2596,Temple Herdewyke,United Kingdom
+2597,Temple Meads,United Kingdom
+2598,Templecombe,United Kingdom
+2599,Tenbury Wells,United Kingdom
+2600,Tenterden,United Kingdom
+2601,Tetbury,United Kingdom
+2602,Tewkesbury,United Kingdom
+2603,Tewkesbury Business Park,United Kingdom
+2604,Thame,United Kingdom
+2605,Thames Ditton,United Kingdom
+2606,Thamesmead,United Kingdom
+2607,Thatcham,United Kingdom
+2608,Thaxted,United Kingdom
+2609,The Borough,United Kingdom
+2610,The City,United Kingdom
+2611,The Cross,United Kingdom
+2612,The Docks,United Kingdom
+2613,The Hyde,United Kingdom
+2614,The Lizard,United Kingdom
+2615,The Oaks,United Kingdom
+2616,The Trafford Centre,United Kingdom
+2617,The Wirral,United Kingdom
+2618,Theale,United Kingdom
+2619,Thetford,United Kingdom
+2620,Thirsk,United Kingdom
+2621,Thornaby,United Kingdom
+2622,Thornaby-On-Tees,United Kingdom
+2623,Thornbury,United Kingdom
+2624,Thornton Heath,United Kingdom
+2625,Thornton-Cleveleys,United Kingdom
+2626,Thorp Arch,United Kingdom
+2627,Thorp Arch Estate,United Kingdom
+2628,Thorpe,United Kingdom
+2629,Thorpe Arnold,United Kingdom
+2630,Thorpe Industrial Estate,United Kingdom
+2631,Thorrington,United Kingdom
+2632,Thrapston,United Kingdom
+2633,Three Bridges,United Kingdom
+2634,Three Cocks,United Kingdom
+2635,Thurmaston,United Kingdom
+2636,Thurnscoe,United Kingdom
+2637,Thurrock,United Kingdom
+2638,Thurso,United Kingdom
+2639,Ticehurst,United Kingdom
+2640,Tickencote,United Kingdom
+2641,Tidworth,United Kingdom
+2642,Tilbrook,United Kingdom
+2643,Tilbury,United Kingdom
+2644,Tilehurst,United Kingdom
+2645,Tingewick,United Kingdom
+2646,Tintern,United Kingdom
+2647,Tipton,United Kingdom
+2648,Tiptree,United Kingdom
+2649,Tisbury,United Kingdom
+2650,Tiverton,United Kingdom
+2651,Tiverton Business Park,United Kingdom
+2652,Tividale,United Kingdom
+2653,Tockington,United Kingdom
+2654,Toft,United Kingdom
+2655,Tollerton,United Kingdom
+2656,Tolworth,United Kingdom
+2657,Tonbridge,United Kingdom
+2658,Tongwell,United Kingdom
+2659,Tooting,United Kingdom
+2660,Torpoint,United Kingdom
+2661,Torquay,United Kingdom
+2662,Torrington,United Kingdom
+2663,Tortworth,United Kingdom
+2664,Totnes,United Kingdom
+2665,Tottenham,United Kingdom
+2666,Totternhoe,United Kingdom
+2667,Totton,United Kingdom
+2668,Towcester,United Kingdom
+2669,Tower Hamlets,United Kingdom
+2670,Tower Hill,United Kingdom
+2671,Town Centre,United Kingdom
+2672,Trafford Park,United Kingdom
+2673,Tranent,United Kingdom
+2674,Tredegar,United Kingdom
+2675,Tremarl Industrial Estate,United Kingdom
+2676,Trent Lane Industrial Estate,United Kingdom
+2677,Trentham,United Kingdom
+2678,Treorchy,United Kingdom
+2679,Trimingham,United Kingdom
+2680,Tring,United Kingdom
+2681,Trowbridge,United Kingdom
+2682,Trumpington,United Kingdom
+2683,Truro,United Kingdom
+2684,Tuffley,United Kingdom
+2685,Tunbridge Wells,United Kingdom
+2686,Turnford,United Kingdom
+2687,Turriff,United Kingdom
+2688,Tuxford,United Kingdom
+2689,Twickenham,United Kingdom
+2690,Twyford,United Kingdom
+2691,Tyne And Wear,United Kingdom
+2692,Tynemouth,United Kingdom
+2693,Tyneside,United Kingdom
+2694,Tyntesfield,United Kingdom
+2695,Tyseley,United Kingdom
+2696,Uckfield,United Kingdom
+2697,Uddingston,United Kingdom
+2698,Ullapool,United Kingdom
+2699,Ullesthorpe,United Kingdom
+2700,Ulting,United Kingdom
+2701,Ulverston,United Kingdom
+2702,United Arab Emirates,United Kingdom
+2703,Upavon,United Kingdom
+2704,Uphall,United Kingdom
+2705,Upminster,United Kingdom
+2706,Upper Heyford,United Kingdom
+2707,Upper Holton,United Kingdom
+2708,Upper Shirley,United Kingdom
+2709,Upton,United Kingdom
+2710,Urmston,United Kingdom
+2711,Usk,United Kingdom
+2712,Uttoxeter,United Kingdom
+2713,Uxbridge,United Kingdom
+2714,Vale Park,United Kingdom
+2715,Vauxhall,United Kingdom
+2716,Verwood,United Kingdom
+2717,Victoria,United Kingdom
+2718,Victoria Business Park,United Kingdom
+2719,Victoria Park,United Kingdom
+2720,Virginia Water,United Kingdom
+2721,Wadebridge,United Kingdom
+2722,Wakefield,United Kingdom
+2723,Wakefield 41 Business Park,United Kingdom
+2724,Walderslade,United Kingdom
+2725,Wallasey,United Kingdom
+2726,Wallingford,United Kingdom
+2727,Wallington,United Kingdom
+2728,Wallsend,United Kingdom
+2729,Walsall,United Kingdom
+2730,Walsall Wood,United Kingdom
+2731,Walters Ash,United Kingdom
+2732,Waltham Abbey,United Kingdom
+2733,Waltham Cross,United Kingdom
+2734,Walthamstow,United Kingdom
+2735,Walton On The Naze,United Kingdom
+2736,Walton-On-Thames,United Kingdom
+2737,Walton-on-Thames,United Kingdom
+2738,Walworth,United Kingdom
+2739,Wanborough,United Kingdom
+2740,Wandsworth,United Kingdom
+2741,Wanstead,United Kingdom
+2742,Wantage,United Kingdom
+2743,Wappenham,United Kingdom
+2744,Ware,United Kingdom
+2745,Wareham,United Kingdom
+2746,Warlingham,United Kingdom
+2747,Warminster,United Kingdom
+2748,Warmley,United Kingdom
+2749,Warnham,United Kingdom
+2750,Warrington,United Kingdom
+2751,Warwick,United Kingdom
+2752,Warwickshire,United Kingdom
+2753,Washington,United Kingdom
+2754,Washwood Heath,United Kingdom
+2755,Water End,United Kingdom
+2756,Waterbeach,United Kingdom
+2757,Waterglade Industrial Park,United Kingdom
+2758,Waterloo,United Kingdom
+2759,Waterlooville,United Kingdom
+2760,Watermillock,United Kingdom
+2761,Watford,United Kingdom
+2762,Watlington,United Kingdom
+2763,Watton,United Kingdom
+2764,Watton At Stone,United Kingdom
+2765,Wavendon,United Kingdom
+2766,Wedmore,United Kingdom
+2767,Wednesbury,United Kingdom
+2768,Weedon,United Kingdom
+2769,Welham Green,United Kingdom
+2770,Wellesbourne,United Kingdom
+2771,Welling,United Kingdom
+2772,Wellingborough,United Kingdom
+2773,Wellington,United Kingdom
+2774,Wells,United Kingdom
+2775,Wells-next-the-Sea,United Kingdom
+2776,Welshpool,United Kingdom
+2777,Welton,United Kingdom
+2778,Welwyn,United Kingdom
+2779,Welwyn Garden City,United Kingdom
+2780,Wembley,United Kingdom
+2781,Wembley Central,United Kingdom
+2782,Wembley Park,United Kingdom
+2783,West Boldon,United Kingdom
+2784,West Bridgford,United Kingdom
+2785,West Brompton,United Kingdom
+2786,West Bromwich,United Kingdom
+2787,West Byfleet,United Kingdom
+2788,West Calder,United Kingdom
+2789,West Drayton,United Kingdom
+2790,West End,United Kingdom
+2791,West Hampstead,United Kingdom
+2792,West Horndon,United Kingdom
+2793,West London,United Kingdom
+2794,West Lothian,United Kingdom
+2795,West Malling,United Kingdom
+2796,West Markham,United Kingdom
+2797,West Midlands,United Kingdom
+2798,West Midlands (Region),United Kingdom
+2799,West Molesey,United Kingdom
+2800,West Moors,United Kingdom
+2801,West Sussex,United Kingdom
+2802,West Thurrock,United Kingdom
+2803,West Timperley,United Kingdom
+2804,West Town,United Kingdom
+2805,West Wickham,United Kingdom
+2806,West Yorkshire,United Kingdom
+2807,Westbury,United Kingdom
+2808,Westbury-on-Severn,United Kingdom
+2809,Westcliff-On-Sea,United Kingdom
+2810,Westcliff-on-Sea,United Kingdom
+2811,Westerham,United Kingdom
+2812,Westerleigh,United Kingdom
+2813,Westhill,United Kingdom
+2814,Westhoughton,United Kingdom
+2815,Westmill,United Kingdom
+2816,Westminster,United Kingdom
+2817,Weston,United Kingdom
+2818,Weston Favell,United Kingdom
+2819,Weston-Super-Mare,United Kingdom
+2820,Weston-on-the-Green,United Kingdom
+2821,Weston-super-Mare,United Kingdom
+2822,Westonbirt,United Kingdom
+2823,Westwood Business Park,United Kingdom
+2824,Wetherby,United Kingdom
+2825,Weybridge,United Kingdom
+2826,Weymouth,United Kingdom
+2827,Wharley End,United Kingdom
+2828,Wheathampstead,United Kingdom
+2829,Wheatley,United Kingdom
+2830,Whetstone,United Kingdom
+2831,Whinfell,United Kingdom
+2832,Whipsnade,United Kingdom
+2833,Whiston,United Kingdom
+2834,Whitby,United Kingdom
+2835,Whitchurch,United Kingdom
+2836,White City,United Kingdom
+2837,White Cross,United Kingdom
+2838,Whitefield,United Kingdom
+2839,Whitehaven,United Kingdom
+2840,Whiteley,United Kingdom
+2841,Whitnash,United Kingdom
+2842,Whitstable,United Kingdom
+2843,Whittle-le-Woods,United Kingdom
+2844,Whittlebury,United Kingdom
+2845,Whittlesey,United Kingdom
+2846,Whittlesford,United Kingdom
+2847,Whitton,United Kingdom
+2848,Whitwell,United Kingdom
+2849,Whyteleafe,United Kingdom
+2850,Wick,United Kingdom
+2851,Wickford,United Kingdom
+2852,Wickham,United Kingdom
+2853,Widnes,United Kingdom
+2854,Wigan,United Kingdom
+2855,Wigston,United Kingdom
+2856,Wigton,United Kingdom
+2857,Willand,United Kingdom
+2858,Willenhall,United Kingdom
+2859,Willersey,United Kingdom
+2860,Willesden Green,United Kingdom
+2861,Williamstown,United Kingdom
+2862,Williton,United Kingdom
+2863,Willow Farm Business Park,United Kingdom
+2864,Willowbrook East Industrial Estate,United Kingdom
+2865,Wilmslow,United Kingdom
+2866,Wilnecote,United Kingdom
+2867,Wilton,United Kingdom
+2868,Wiltshire,United Kingdom
+2869,Wimbledon,United Kingdom
+2870,Wimblington,United Kingdom
+2871,Wimborne,United Kingdom
+2872,Wimborne Minster,United Kingdom
+2873,Wincanton,United Kingdom
+2874,Wincheap Industrial Estate,United Kingdom
+2875,Winchester,United Kingdom
+2876,Windermere,United Kingdom
+2877,Windlesham,United Kingdom
+2878,Windsor,United Kingdom
+2879,Windygates,United Kingdom
+2880,Wingates Industrial Estate,United Kingdom
+2881,Wingham,United Kingdom
+2882,Winkleigh,United Kingdom
+2883,Winnards Perch,United Kingdom
+2884,Winnersh,United Kingdom
+2885,Winsford,United Kingdom
+2886,Winsford Industrial Estate,United Kingdom
+2887,Winsley,United Kingdom
+2888,Winterhill,United Kingdom
+2889,Winterton-on-Sea,United Kingdom
+2890,Winthorpe,United Kingdom
+2891,Winwick,United Kingdom
+2892,Winwick Quay,United Kingdom
+2893,Wirral,United Kingdom
+2894,Wisbech,United Kingdom
+2895,Wishaw,United Kingdom
+2896,Witcham Toll,United Kingdom
+2897,Witham,United Kingdom
+2898,Witney,United Kingdom
+2899,Wivelsfield,United Kingdom
+2900,Woburn,United Kingdom
+2901,Woburn Sands,United Kingdom
+2902,Woking,United Kingdom
+2903,Wokingham,United Kingdom
+2904,Wollaston,United Kingdom
+2905,Wollaton,United Kingdom
+2906,Wolverhampton,United Kingdom
+2907,Wolverton Mill,United Kingdom
+2908,Wombourne,United Kingdom
+2909,Wombwell,United Kingdom
+2910,Wonersh,United Kingdom
+2911,Wooburn Green,United Kingdom
+2912,Wood Green,United Kingdom
+2913,Woodall,United Kingdom
+2914,Woodbridge,United Kingdom
+2915,Woodcote,United Kingdom
+2916,Woodford,United Kingdom
+2917,Woodford Green,United Kingdom
+2918,Woodlands St. Mary,United Kingdom
+2919,Woodley,United Kingdom
+2920,Woodside Estate,United Kingdom
+2921,Woodstock,United Kingdom
+2922,Wooler,United Kingdom
+2923,Woolpit,United Kingdom
+2924,Woolstanwood,United Kingdom
+2925,Woolston,United Kingdom
+2926,Woolwell,United Kingdom
+2927,Woolwich,United Kingdom
+2928,Wootton Wawen,United Kingdom
+2929,Worcester,United Kingdom
+2930,Worcester Park,United Kingdom
+2931,Worcestershire,United Kingdom
+2932,Workington,United Kingdom
+2933,Worksop,United Kingdom
+2934,Worminghall,United Kingdom
+2935,Wormley,United Kingdom
+2936,Worsley,United Kingdom
+2937,Worthing,United Kingdom
+2938,Wotton Underwood,United Kingdom
+2939,Wotton-under-Edge,United Kingdom
+2940,Wrangaton,United Kingdom
+2941,Wraxall,United Kingdom
+2942,Wraysbury,United Kingdom
+2943,Wrea Green,United Kingdom
+2944,Wrexham,United Kingdom
+2945,Wrexham Industrial Estate,United Kingdom
+2946,Wroughton,United Kingdom
+2947,Wroxham,United Kingdom
+2948,Wyke,United Kingdom
+2949,Wymbush,United Kingdom
+2950,Wymondham,United Kingdom
+2951,Wythenshawe,United Kingdom
+2952,Yanworth,United Kingdom
+2953,Yardley,United Kingdom
+2954,Yarm,United Kingdom
+2955,Yarnton,United Kingdom
+2956,Yate,United Kingdom
+2957,Yateley,United Kingdom
+2958,Yatton,United Kingdom
+2959,Yaxley,United Kingdom
+2960,Yeadon,United Kingdom
+2961,Yeovil,United Kingdom
+2962,Yiewsley,United Kingdom
+2963,York,United Kingdom
+2964,Yorkshire and Humberside,United Kingdom
+2965,Ystrad Mynach,United Kingdom
+2966,Zone 1,United Kingdom
+2967,abu dhabi,United Kingdom
+2968,bahrain,United Kingdom
+2969,dubai,United Kingdom
+2970,gibraltar,United Kingdom
+2971,hong kong,United Kingdom
+2972,malta,United Kingdom
+2973,st. vincent & the grenadines,United Kingdom
+2974,united arab emirates,United Kingdom
+2975,Unknown,United Kingdom

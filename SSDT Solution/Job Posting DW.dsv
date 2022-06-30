@@ -1,0 +1,240 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6b20e3ea-d54b-4ddb-b739-7e4f6e89eaa8" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Job Posting DW</ID>
+  <Name>Job Posting DW</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>Job Posting DW</DataSourceID>
+  <Schema>
+    <xs:schema id="Job_x0020_Posting_x0020_DW" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Job_x0020_Posting_x0020_DW" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="f10e17e9-ec4d-44f8-8ca1-ba14f05aa615">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_DimCategory" msprop:design-time-name="605201a3-53d5-4e1d-9c93-24e9c8152191" msprop:DbTableName="DimCategory" msprop:FriendlyName="DimCategory" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="CategoryID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="ddb75ee8-580f-46b2-a7f6-f27b0914e1bb" msprop:DbColumnName="CategoryID" msprop:FriendlyName="CategoryID" type="xs:int" />
+                  <xs:element name="CategoryName" msprop:design-time-name="c462d043-3ec5-4fdb-af2f-9dc0b81835f8" msprop:DbColumnName="CategoryName" msprop:FriendlyName="CategoryName" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimCompany" msprop:design-time-name="5b6c88d0-4301-4691-a11b-06ac7bc05f2a" msprop:DbTableName="DimCompany" msprop:FriendlyName="DimCompany" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="CompanyID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="178a485e-6bbc-4d81-86ff-d6e07adddb64" msprop:DbColumnName="CompanyID" msprop:FriendlyName="CompanyID" type="xs:int" />
+                  <xs:element name="CompanyName" msprop:design-time-name="2e18270e-e5cd-45c6-be0d-47449dc6992f" msprop:DbColumnName="CompanyName" msprop:FriendlyName="CompanyName" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimDate" msprop:design-time-name="1bcc67be-0dbd-474c-b914-49d24d6f844e" msprop:DbTableName="DimDate" msprop:FriendlyName="DimDate" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DateID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="00121c8d-674c-4508-9bab-be043775ac9d" msprop:DbColumnName="DateID" msprop:FriendlyName="DateID" type="xs:int" />
+                  <xs:element name="FullDateDescription" msprop:design-time-name="078fe7e9-9df1-4bfb-8d51-e9e4fb3b123e" msprop:DbColumnName="FullDateDescription" msprop:FriendlyName="FullDateDescription">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Post_Day" msprop:design-time-name="c3f79045-ece8-42d7-99a0-64367fbc59fa" msprop:DbColumnName="Post_Day" msprop:FriendlyName="Post_Day">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Post_Month" msprop:design-time-name="10f15b90-0039-43c4-91cd-46df3b758048" msprop:DbColumnName="Post_Month" msprop:FriendlyName="Post_Month">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Post_Quarter" msprop:design-time-name="58129e6b-f26b-4595-9b23-19e03dc00bec" msprop:DbColumnName="Post_Quarter" msprop:FriendlyName="Post_Quarter">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Post_Year" msprop:design-time-name="335ad51b-b170-4603-99da-e684e520e573" msprop:DbColumnName="Post_Year" msprop:FriendlyName="Post_Year">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Post_Date" msprop:design-time-name="51b956d6-d8bc-4a94-83c7-5a92ddb8169e" msprop:DbColumnName="Post_Date" msprop:FriendlyName="Post_Date" type="xs:dateTime" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimJobTitle" msprop:design-time-name="753e7381-d15c-403b-953c-708425b2d06e" msprop:DbTableName="DimJobTitle" msprop:FriendlyName="DimJobTitle" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="JobTitleID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="e2da3d69-fb9b-44bb-a7b8-c7828a33bba3" msprop:DbColumnName="JobTitleID" msprop:FriendlyName="JobTitleID" type="xs:int" />
+                  <xs:element name="JobTitle" msprop:design-time-name="0ffc2b32-af9d-4cf9-af08-b4d553d87183" msprop:DbColumnName="JobTitle" msprop:FriendlyName="JobTitle">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimJobType" msprop:design-time-name="53511abd-4f63-4720-adb6-1e19eab48f30" msprop:DbTableName="DimJobType" msprop:FriendlyName="DimJobType" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="JobTypeID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="100bf828-d06d-4cb1-a02d-c89af9741e94" msprop:DbColumnName="JobTypeID" msprop:FriendlyName="JobTypeID" type="xs:int" />
+                  <xs:element name="JobType" msprop:design-time-name="b679a29a-084d-436d-a0d7-57479706941a" msprop:DbColumnName="JobType" msprop:FriendlyName="JobType">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimLocation" msprop:design-time-name="aaa55b88-e450-4426-bb3f-a0b40c141709" msprop:DbTableName="DimLocation" msprop:FriendlyName="DimLocation" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="LocationID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="7a980627-1483-4cd6-af03-df2e17409119" msprop:DbColumnName="LocationID" msprop:FriendlyName="LocationID" type="xs:int" />
+                  <xs:element name="City" msprop:design-time-name="2b797579-c36b-445b-97b6-47cfb9459e8b" msprop:DbColumnName="City" msprop:FriendlyName="City">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Country" msprop:design-time-name="87986e11-70a7-4ca7-ac7d-5f57ef640bc3" msprop:DbColumnName="Country" msprop:FriendlyName="Country">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FactJobPosting" msprop:design-time-name="7eed7474-6c1c-4d18-9ede-af22d7d573d9" msprop:DbTableName="FactJobPosting" msprop:FriendlyName="FactJobPosting" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="PostId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="bc33aad8-1d52-4097-baee-ab3ff1687afa" msprop:DbColumnName="PostId" msprop:FriendlyName="PostId" type="xs:long" />
+                  <xs:element name="CategoryID" msprop:design-time-name="cee7026e-375a-4c06-b569-ecde9a8a3e89" msprop:DbColumnName="CategoryID" msprop:FriendlyName="CategoryID" type="xs:int" />
+                  <xs:element name="CompanyID" msprop:design-time-name="be6cb81b-b08e-4c2c-bed0-057017715145" msprop:DbColumnName="CompanyID" msprop:FriendlyName="CompanyID" type="xs:int" />
+                  <xs:element name="JobTypeID" msprop:design-time-name="d7993919-a3fb-41b4-a73e-77be56f33c3f" msprop:DbColumnName="JobTypeID" msprop:FriendlyName="JobTypeID" type="xs:int" />
+                  <xs:element name="LocationID" msprop:design-time-name="00d15c69-9181-4b91-b6ce-36006a58b530" msprop:DbColumnName="LocationID" msprop:FriendlyName="LocationID" type="xs:int" />
+                  <xs:element name="DateID" msprop:design-time-name="bf7443da-67f5-4287-b5f9-cc453117ec9b" msprop:DbColumnName="DateID" msprop:FriendlyName="DateID" type="xs:int" />
+                  <xs:element name="JobTitleID" msprop:design-time-name="6ca73d90-9413-4572-b3a7-ececbf627496" msprop:DbColumnName="JobTitleID" msprop:FriendlyName="JobTitleID" type="xs:int" />
+                  <xs:element name="JobCount" msprop:design-time-name="bbf5688f-44b2-4a9a-8e71-c87ebb69f428" msprop:DbColumnName="JobCount" msprop:FriendlyName="JobCount" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimCategory" />
+          <xs:field xpath="CategoryID" />
+        </xs:unique>
+        <xs:unique name="dbo_DimCompany_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimCompany" />
+          <xs:field xpath="CompanyID" />
+        </xs:unique>
+        <xs:unique name="dbo_DimDate_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimDate" />
+          <xs:field xpath="DateID" />
+        </xs:unique>
+        <xs:unique name="dbo_DimJobTitle_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimJobTitle" />
+          <xs:field xpath="JobTitleID" />
+        </xs:unique>
+        <xs:unique name="dbo_DimJobType_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimJobType" />
+          <xs:field xpath="JobTypeID" />
+        </xs:unique>
+        <xs:unique name="dbo_DimLocation_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimLocation" />
+          <xs:field xpath="LocationID" />
+        </xs:unique>
+        <xs:unique name="dbo_FactJobPosting_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="PostId" />
+        </xs:unique>
+        <xs:keyref name="FK__FactJobPo__JobTi__34C8D9D1" refer="dbo_DimJobTitle_Constraint1">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="JobTitleID" />
+        </xs:keyref>
+        <xs:keyref name="FK__FactJobPo__JobTy__33D4B598" refer="dbo_DimJobType_Constraint1">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="JobTypeID" />
+        </xs:keyref>
+        <xs:keyref name="FK__FactJobPo__Compa__30F848ED" refer="dbo_DimCompany_Constraint1">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="CompanyID" />
+        </xs:keyref>
+        <xs:keyref name="FK__FactJobPo__DateI__31EC6D26" refer="dbo_DimDate_Constraint1">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="DateID" />
+        </xs:keyref>
+        <xs:keyref name="FK__FactJobPo__Categ__300424B4" refer="Constraint1">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="CategoryID" />
+        </xs:keyref>
+        <xs:keyref name="FK__FactJobPo__Locat__32E0915F" refer="dbo_DimLocation_Constraint1">
+          <xs:selector xpath=".//dbo_FactJobPosting" />
+          <xs:field xpath="LocationID" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Job_x0020_Posting_x0020_DW xmlns="" />
+  </Schema>
+</DataSourceView>
